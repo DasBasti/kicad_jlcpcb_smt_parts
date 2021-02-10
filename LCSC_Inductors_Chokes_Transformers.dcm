@@ -1,0 +1,2733 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDFL2012T220KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012T220KTF_C32375.pdf
+$ENDCMP
+#
+$CMP SDFL2012Q3R3KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012Q3R3KTF_C51725.pdf
+$ENDCMP
+#
+$CMP SDFL2012T470KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012T470KTF_C14304.pdf
+$ENDCMP
+#
+$CMP SDFL2012Q1R0KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012Q1R0KTF_C1042.pdf
+$ENDCMP
+#
+$CMP CMI201209U2R2KT
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI201209U2R2KT_C1043.pdf
+$ENDCMP
+#
+$CMP SDFL2012S100KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012S100KTF_C1046.pdf
+$ENDCMP
+#
+$CMP MLF2012C101KT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012C101KT000_C68035.pdf
+$ENDCMP
+#
+$CMP SDFL1608Q4R7KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608Q4R7KTF_C1034.pdf
+$ENDCMP
+#
+$CMP SDFL1608S100KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608S100KTF_C1035.pdf
+$ENDCMP
+#
+$CMP CMI321609U4R7KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609U4R7KT_C1049.pdf
+$ENDCMP
+#
+$CMP CMI321609X100KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf
+$ENDCMP
+#
+$CMP SDFL1608Q2R2KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608Q2R2KTF_C1033.pdf
+$ENDCMP
+#
+$CMP MLI2012-4R7f
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-4-7uH-10-30mA_C1044.pdf
+$ENDCMP
+#
+$CMP CMI201209X5R6KT
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI201209X5R6KT_C1045.pdf
+$ENDCMP
+#
+$CMP MeledIndustrial
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI3216-1R0-F_C1047.pdf
+$ENDCMP
+#
+$CMP CMI321609U2R2KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609U2R2KT_C1048.pdf
+$ENDCMP
+#
+$CMP CMI321609U5R6KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609U5R6KT_C1050.pdf
+$ENDCMP
+#
+$CMP MLW1608-33NF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Meled-Industrial-MLW1608-33N-F_C11774.pdf
+$ENDCMP
+#
+$CMP MLW2012-68NF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLW2012-68N-F_C11775.pdf
+$ENDCMP
+#
+$CMP MLI1608-39Nf
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-39N-f_C12327.pdf
+$ENDCMP
+#
+$CMP MLI2012-39N（F）
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-39N-F_C12328.pdf
+$ENDCMP
+#
+$CMP MLI1608-1R0（f）
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-1R0-f_C12374.pdf
+$ENDCMP
+#
+$CMP SDFL1608Q3R3KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608Q3R3KTF_C12589.pdf
+$ENDCMP
+#
+$CMP MLI2012-10N
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-10N_C14457.pdf
+$ENDCMP
+#
+$CMP MLI2012-22N
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-22N_C14459.pdf
+$ENDCMP
+#
+$CMP MLI2012-18N
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-18N_C14460.pdf
+$ENDCMP
+#
+$CMP MLI3216-1R5f
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI3216-1R5-f_C15581.pdf
+$ENDCMP
+#
+$CMP MLF2012C330KT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1901291030_TDK-MLF2012C330KT000_C18101.pdf
+$ENDCMP
+#
+$CMP SDFL1608S120KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608S120KTF_C21306.pdf
+$ENDCMP
+#
+$CMP LQG15HN10NJ02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HN10NJ02D_C21585.pdf
+$ENDCMP
+#
+$CMP MLI2012-36Nf
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-36N-f_C21941.pdf
+$ENDCMP
+#
+$CMP MLI2012-2R7F
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-2R7-F_C24183.pdf
+$ENDCMP
+#
+$CMP MLI3216-470f
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI3216-470-F_C26910.pdf
+$ENDCMP
+#
+$CMP CMI322513U1R8KT
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI322513U1R8KT_C27774.pdf
+$ENDCMP
+#
+$CMP CMI322513J101KT
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI322513J101KT_C27775.pdf
+$ENDCMP
+#
+$CMP CMI201209VR33KT
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI201209VR33KT_C29069.pdf
+$ENDCMP
+#
+$CMP SDFL1608Q2R7KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608Q2R7KTF_C29946.pdf
+$ENDCMP
+#
+$CMP MLI2012-R39f
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-R39-f_C29972.pdf
+$ENDCMP
+#
+$CMP SDFL2012LR33KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012LR33KTF_C30617.pdf
+$ENDCMP
+#
+$CMP MLI2012-R15F
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-R15-F_C30618.pdf
+$ENDCMP
+#
+$CMP MLW3225-100F
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLW3225-100-F_C31961.pdf
+$ENDCMP
+#
+$CMP MLI2012-R10f
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-100nH-5-300mA_C32878.pdf
+$ENDCMP
+#
+$CMP MLW3225-2R2F
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLW3225-2R2-F_C36828.pdf
+$ENDCMP
+#
+$CMP BKW0805UCR56JGT
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Bangke-Elec-BKW0805UCR56JGT_C37297.pdf
+$ENDCMP
+#
+$CMP MLI1608-2N0f
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-2N0-f_C40464.pdf
+$ENDCMP
+#
+$CMP MLI1608-3N0F
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-3N0-F_C40465.pdf
+$ENDCMP
+#
+$CMP NLV32T-1R8J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-1R8J-PF_C41039.pdf
+$ENDCMP
+#
+$CMP MLI2012-180
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-180_C42027.pdf
+$ENDCMP
+#
+$CMP MLI3216-1R8f
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI3216-1R8-f_C43936.pdf
+$ENDCMP
+#
+$CMP MLI1608-24Nf
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-24N-f_C47614.pdf
+$ENDCMP
+#
+$CMP MLI1608-30Nf
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-30N-f_C47615.pdf
+$ENDCMP
+#
+$CMP SDFL2012LR47KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012LR47KTF_C48556.pdf
+$ENDCMP
+#
+$CMP MLI1608-36Nf
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-36N-f_C48589.pdf
+$ENDCMP
+#
+$CMP SDFL1005P2R2KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005P2R2KTF_C49067.pdf
+$ENDCMP
+#
+$CMP MLI1608-R10F
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1608-R10-F_C49329.pdf
+$ENDCMP
+#
+$CMP SDFL1608Q1R0KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608Q1R0KTF_C49810.pdf
+$ENDCMP
+#
+$CMP MLI1005-36Nf
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI1005-36N-f_C52050.pdf
+$ENDCMP
+#
+$CMP MLI3216-3R3f
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI3216-3R3-f_C52707.pdf
+$ENDCMP
+#
+$CMP MPH201210S2R2MT
+D SMD,2.0x1.25x1.0mm RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-MPH201210S2R2MT_C55755.pdf
+$ENDCMP
+#
+$CMP MLI2012-27Nf
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLI2012-27N-f_C56586.pdf
+$ENDCMP
+#
+$CMP MLW3225-4R7f
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-MLW3225-4R7-f_C56767.pdf
+$ENDCMP
+#
+$CMP SDFL1608S5R6KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608S5R6KTF_C57837.pdf
+$ENDCMP
+#
+$CMP SDFL1608T150KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608T150KTF_C57838.pdf
+$ENDCMP
+#
+$CMP SDFL1608T180KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1812121716_Sunlord-SDFL1608T180KTF_C57839.pdf
+$ENDCMP
+#
+$CMP SDFL1608T220KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608T220KTF_C57840.pdf
+$ENDCMP
+#
+$CMP SDFL1608T270KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608T270KTF_C57841.pdf
+$ENDCMP
+#
+$CMP MLW3225-471F
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Meled-Industrial-MLW3225-471-F_C63833.pdf
+$ENDCMP
+#
+$CMP CMI321609J220KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609J220KT_C64476.pdf
+$ENDCMP
+#
+$CMP NLV32T-470J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-470J-PF_C66936.pdf
+$ENDCMP
+#
+$CMP SDFL1608LR82KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608LR82KTF_C74313.pdf
+$ENDCMP
+#
+$CMP SDFL2012Q4R7KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012Q4R7KTF_C74314.pdf
+$ENDCMP
+#
+$CMP SDFL2012LR68KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012LR68KTF_C74315.pdf
+$ENDCMP
+#
+$CMP SDFL2012Q2R7KTF
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL2012Q2R7KTF_C74318.pdf
+$ENDCMP
+#
+$CMP CMI321609U1R5KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321609U1R5KT_C74477.pdf
+$ENDCMP
+#
+$CMP CMI321611J470KT
+D 1206 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI321611J470KT_C75660.pdf
+$ENDCMP
+#
+$CMP SDFL1608S6R8KTF
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1608S6R8KTF_C75929.pdf
+$ENDCMP
+#
+$CMP MLF1608A4R7KTA00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608A4R7KTA00_C76730.pdf
+$ENDCMP
+#
+$CMP MLF1608DR39KTA00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608DR39KTA00_C76731.pdf
+$ENDCMP
+#
+$CMP MLF1608E100KTD00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608E100KTD00_C76732.pdf
+$ENDCMP
+#
+$CMP MLF1608E120JT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608E120JT000_C76733.pdf
+$ENDCMP
+#
+$CMP MLF1608E5R6KTA00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608E5R6KTA00_C76734.pdf
+$ENDCMP
+#
+$CMP MLF1608E8R2JT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608E8R2JT000_C76735.pdf
+$ENDCMP
+#
+$CMP MLF2012A4R7KT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012A4R7KT000_C76736.pdf
+$ENDCMP
+#
+$CMP MLF2012DR10JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR10JT000_C76737.pdf
+$ENDCMP
+#
+$CMP MLF2012DR12KT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR12KT000_C76738.pdf
+$ENDCMP
+#
+$CMP MLF2012DR15JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR15JT000_C76739.pdf
+$ENDCMP
+#
+$CMP MLF2012DR22JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR22JT000_C76740.pdf
+$ENDCMP
+#
+$CMP MLF2012DR82JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR82JT000_C76741.pdf
+$ENDCMP
+#
+$CMP MLF2012E100JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012E100JT000_C76742.pdf
+$ENDCMP
+#
+$CMP MLF2012E120KT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012E120KT000_C76744.pdf
+$ENDCMP
+#
+$CMP MLP2016S1R0MT0S1
+D SMD,2x1.6mm RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLP2016S1R0MT0S1_C76793.pdf
+$ENDCMP
+#
+$CMP MLP2016S1R5MT0S1
+D SMD,2x1.6mm RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLP2016S1R5MT0S1_C76794.pdf
+$ENDCMP
+#
+$CMP MLZ1608A2R2WT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLZ1608A2R2WT000_C76797.pdf
+$ENDCMP
+#
+$CMP MLZ1608M4R7WT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLZ1608M4R7WT000_C76799.pdf
+$ENDCMP
+#
+$CMP NL453232T-681J-PF
+D 1812 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NL453232T-681J-PF_C76821.pdf
+$ENDCMP
+#
+$CMP NLC453232T-150K-PF
+D 1812 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/15uH-10-450mA_C76823.pdf
+$ENDCMP
+#
+$CMP NLV32T-100J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-100J-PF_C76835.pdf
+$ENDCMP
+#
+$CMP NLV32T-101J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-101J-PF_C76836.pdf
+$ENDCMP
+#
+$CMP NLV32T-1R5J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-1R5J-PF_C76837.pdf
+$ENDCMP
+#
+$CMP NLV32T-270J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-270J-PF_C76839.pdf
+$ENDCMP
+#
+$CMP NLV32T-330J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-330J-PF_C76840.pdf
+$ENDCMP
+#
+$CMP NLV32T-390J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-390J-PF_C76841.pdf
+$ENDCMP
+#
+$CMP NLV32T-4R7J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-4R7J-PF_C76842.pdf
+$ENDCMP
+#
+$CMP NLV32T-680J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-680J-PF_C76843.pdf
+$ENDCMP
+#
+$CMP NLV32T-820J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-820J-PF_C76844.pdf
+$ENDCMP
+#
+$CMP NLV32T-8R2J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-8R2J-PF_C76845.pdf
+$ENDCMP
+#
+$CMP LQW18AN20NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN20NG00D_C77124.pdf
+$ENDCMP
+#
+$CMP LQW18AN9N1D00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN9N1D00D_C77125.pdf
+$ENDCMP
+#
+$CMP LQW18ANR18J00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18ANR18J00D_C77126.pdf
+$ENDCMP
+#
+$CMP LQW18ANR22J00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18ANR22J00D_C77127.pdf
+$ENDCMP
+#
+$CMP LQW18AN22NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN22NG00D_C84341.pdf
+$ENDCMP
+#
+$CMP SDFL1005Q1R0KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005Q1R0KTF_C84468.pdf
+$ENDCMP
+#
+$CMP SDFL1005Q1R2KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005Q1R2KTF_C84469.pdf
+$ENDCMP
+#
+$CMP SDFL1005Q1R5KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005Q1R5KTF_C84470.pdf
+$ENDCMP
+#
+$CMP SDFL1005Q2R2KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005Q2R2KTF_C84472.pdf
+$ENDCMP
+#
+$CMP SDFL1005Q3R3KTF
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDFL1005Q3R3KTF_C84474.pdf
+$ENDCMP
+#
+$CMP LQG15HS33NJ02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS33NJ02D_C86062.pdf
+$ENDCMP
+#
+$CMP LQG15HS39NJ02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS39NJ02D_C86063.pdf
+$ENDCMP
+#
+$CMP LQG15HS3N3S02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS3N3S02D_C86064.pdf
+$ENDCMP
+#
+$CMP LQG15HS4N7S02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS4N7S02D_C86065.pdf
+$ENDCMP
+#
+$CMP LQG15HS5N1S02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS5N1S02D_C86066.pdf
+$ENDCMP
+#
+$CMP LQG15HSR12J02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HSR12J02D_C86067.pdf
+$ENDCMP
+#
+$CMP LQG18HN33NJ00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG18HN33NJ00D_C86068.pdf
+$ENDCMP
+#
+$CMP LQM21FN1R0N00D
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQM21FN1R0N00D_C86086.pdf
+$ENDCMP
+#
+$CMP LQM21FN470N00L
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQM21FN470N00L_C86087.pdf
+$ENDCMP
+#
+$CMP LQM21PL4R7MGCD
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQM21PL4R7MGCD_C86088.pdf
+$ENDCMP
+#
+$CMP LQM21PN2R2NGCD
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQM21PN2R2NGCD_C86089.pdf
+$ENDCMP
+#
+$CMP LQM21PN4R7MGRD
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQM21PN4R7MGRD_C86090.pdf
+$ENDCMP
+#
+$CMP LQW15AN12NG00D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW15AN12NG00D_C86128.pdf
+$ENDCMP
+#
+$CMP LQW15AN22NG00D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW15AN22NG00D_C86129.pdf
+$ENDCMP
+#
+$CMP LQW15ANR10J00D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW15ANR10J00D_C86130.pdf
+$ENDCMP
+#
+$CMP LQW18AN15NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN15NG00D_C86132.pdf
+$ENDCMP
+#
+$CMP LQW18AN18NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN18NG00D_C86133.pdf
+$ENDCMP
+#
+$CMP LQW18AN39NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN39NG00D_C86134.pdf
+$ENDCMP
+#
+$CMP LQW18AN68NG00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN68NG00D_C86135.pdf
+$ENDCMP
+#
+$CMP LQW18AN6N8C00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18AN6N8C00D_C86136.pdf
+$ENDCMP
+#
+$CMP LQW18ANR12G00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18ANR12G00D_C86138.pdf
+$ENDCMP
+#
+$CMP LQW18ANR22G00D
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW18ANR22G00D_C86139.pdf
+$ENDCMP
+#
+$CMP NL453232T-470J-PF
+D 1812 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NL453232T-470J-PF_C86701.pdf
+$ENDCMP
+#
+$CMP LBMF1608T100M
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-LBMF1608T100M_C86752.pdf
+$ENDCMP
+#
+$CMP NLC453232T-220K-PF
+D 1812 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLC453232T-220K-PF_C86821.pdf
+$ENDCMP
+#
+$CMP LBMF1608T100K
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-LBMF1608T100K_C87216.pdf
+$ENDCMP
+#
+$CMP MLF1005LR82KT000
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1005LR82KT000_C87452.pdf
+$ENDCMP
+#
+$CMP GLFR1608T2R2M-LR
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-GLFR1608T2R2M-LR_C87511.pdf
+$ENDCMP
+#
+$CMP MLF1608A1R5JT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608A1R5JT000_C87514.pdf
+$ENDCMP
+#
+$CMP MLF1608A4R7JT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608A4R7JT000_C87515.pdf
+$ENDCMP
+#
+$CMP MLF1608DR12KTA00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608DR12KTA00_C87517.pdf
+$ENDCMP
+#
+$CMP MLF1608DR15JT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608DR15JT000_C87518.pdf
+$ENDCMP
+#
+$CMP MLF1608DR33KTA00
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF1608DR33KTA00_C87520.pdf
+$ENDCMP
+#
+$CMP MLF2012DR33JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR33JT000_C87521.pdf
+$ENDCMP
+#
+$CMP MLG1005S6N2ST000
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S6N2ST000_C87534.pdf
+$ENDCMP
+#
+$CMP MLG1608B1N2ST000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1608B1N2ST000_C87537.pdf
+$ENDCMP
+#
+$CMP MLG1608B56NJT000
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1608B56NJT000_C87538.pdf
+$ENDCMP
+#
+$CMP MLK1005S8N2DT000
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S8N2DT000_C87541.pdf
+$ENDCMP
+#
+$CMP MLK1005S8N2JT000
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S8N2JT000_C87542.pdf
+$ENDCMP
+#
+$CMP MLP2012S4R7MT0S1
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLP2012S4R7MT0S1_C87543.pdf
+$ENDCMP
+#
+$CMP NLCV32T-1R5M-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLCV32T-1R5M-PF_C87556.pdf
+$ENDCMP
+#
+$CMP NLCV32T-331K-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLCV32T-331K-PF_C87557.pdf
+$ENDCMP
+#
+$CMP NLCV32T-6R8M-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLCV32T-6R8M-PF_C87558.pdf
+$ENDCMP
+#
+$CMP NLCV32T-6R8M-PFR
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLCV32T-6R8M-PFR_C87559.pdf
+$ENDCMP
+#
+$CMP NLFV32T-3R3M-EF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLFV32T-3R3M-EF_C87560.pdf
+$ENDCMP
+#
+$CMP NLV32T-033J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-033J-PF_C87561.pdf
+$ENDCMP
+#
+$CMP NLV32T-1R2J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-1R2J-PF_C87562.pdf
+$ENDCMP
+#
+$CMP NLV32T-5R6J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-5R6J-PF_C87563.pdf
+$ENDCMP
+#
+$CMP MLZ2012P220WT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLZ2012P220WT000_C88185.pdf
+$ENDCMP
+#
+$CMP NLV32T-027J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-027J-PF_C88514.pdf
+$ENDCMP
+#
+$CMP NLV32T-221J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-221J-PF_C89015.pdf
+$ENDCMP
+#
+$CMP NLV32T-2R2J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-2R2J-PF_C89016.pdf
+$ENDCMP
+#
+$CMP NLV32T-560J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-560J-PF_C89022.pdf
+$ENDCMP
+#
+$CMP NLV32T-R15J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-R15J-PF_C89025.pdf
+$ENDCMP
+#
+$CMP NLV32T-R39J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-R39J-PF_C89028.pdf
+$ENDCMP
+#
+$CMP NLV32T-R47J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-R47J-PF_C89029.pdf
+$ENDCMP
+#
+$CMP NLV32T-R68J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-R68J-PF_C89031.pdf
+$ENDCMP
+#
+$CMP LQW15AN10NG00D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQW15AN10NG00D_C90642.pdf
+$ENDCMP
+#
+$CMP MLF2012DR47JT000
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLF2012DR47JT000_C92032.pdf
+$ENDCMP
+#
+$CMP HK160868NJ-T
+D 0603 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK160868NJ-T_C92902.pdf
+$ENDCMP
+#
+$CMP LB2012T150K
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-LB2012T150K_C92908.pdf
+$ENDCMP
+#
+$CMP CMI201209U3R3KT
+D 0805 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-CMI201209U3R3KT_C93799.pdf
+$ENDCMP
+#
+$CMP LQG15HN18NJ02D
+D 0402 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HN18NJ02D_C97980.pdf
+$ENDCMP
+#
+$CMP NLV32T-1R0J-PF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-1R0J-PF_C22202.pdf
+$ENDCMP
+#
+$CMP PSE25201B-4R7MS
+D SMD,2.5x2.0x1.2mm RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/Cyntec-PSE25201B-4R7MS_C218835.pdf
+$ENDCMP
+#
+$CMP HSC1008-R15J-T
+D 150nH ±5% 580mA 700mΩ SMD,2.9x2.54x2.03mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809301228_EMTEK-HSC1008-R15J-T_C251876.pdf
+$ENDCMP
+#
+$CMP NLV32T-180J-EF
+D 1210 RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-NLV32T-180J-EF_C295126.pdf
+$ENDCMP
+#
+$CMP BCIHP0730-220M
+D 22uH ±20% 2A 230mΩ SMD,7x7x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1808140141_BC-Bao-Cheng-Elec-BCIHP0730-220M_C237916.pdf
+$ENDCMP
+#
+$CMP BCIHP0730-150M
+D 15uH ±20% 2.5A 175mΩ SMD,7x7x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809200030_BC-Bao-Cheng-Elec-BCIHP0730-150M_C237915.pdf
+$ENDCMP
+#
+$CMP VLS4012ET-6R8M
+D 6.8uH ±20% 1A 156mΩ SMD,4x4x1.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809071022_TDK-VLS4012ET-6R8M_C114787.pdf
+$ENDCMP
+#
+$CMP TPL1183427-722J-720N
+D 7.2mH ±5% 50Ω SMD,11.8x3.4x2.75mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809071031_TDK-TPL1183427-722J-720N_C14156.pdf
+$ENDCMP
+#
+$CMP LCD0603-330K-T
+D 33uH ±10% 120mA 6.6Ω SMD,1.8x1.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809301219_EMTEK-LCD0603-330K-T_C252085.pdf
+$ENDCMP
+#
+$CMP MCS0630-2R2MN2
+D 2.2uH ±20% 8A 17mΩ 0630,SMD,7.3x6.6mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_PSA-Prosperity-Dielectrics-MCS0630-2R2MN2_C385252.pdf
+$ENDCMP
+#
+$CMP TPLC553030-592H
+D 5.89mH ±3% 70Ω SMD,5.5x3x2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007131608_TDK-TPLC553030-592H_C531457.pdf
+$ENDCMP
+#
+$CMP GPSR0530-4R7M
+D 4.7uH ±20% 3A 46mΩ SMD,4.7x5.2x3.0mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2004010132_Gantong-GPSR0530-4R7M_C477170.pdf
+$ENDCMP
+#
+$CMP FDSD0630-H-3R3M=P3
+D 3.3uH ±20% 5.6A 28mΩ SMD,7x6.6x3mm  RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP SLF10165T-220M2R43PF
+D 22uH ±20% 2.4A 53.8mΩ SMD,10.1x10.1x6.5mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809061819_TDK-SLF10165T-220M2R43PF_C91524.pdf
+$ENDCMP
+#
+$CMP MS0420-100M
+D 10uH ±20% 1.6A 230mΩ SMD,4.75x4.2x2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_COILMX-MS0420-100M_C380158.pdf
+$ENDCMP
+#
+$CMP MCS25GD-2R2MHC
+D 2.2uH ±20% 2.2A 74mΩ 252012,SMD,2.5x2.0x1.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_PSA-Prosperity-Dielectrics-MCS25GD-2R2MHC_C375952.pdf
+$ENDCMP
+#
+$CMP 1227AS-H-2R2M=P2
+D 2.2uH ±20% 1.7A 39mΩ SMD,3x2.8x1.8mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Murata-Electronics-1227AS-H-2R2M-P2_C435389.pdf
+$ENDCMP
+#
+$CMP LQM2HPN4R7MG0L
+D 4.7uH ±20% 1.1A 138mΩ 1008  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810241533_Murata-Electronics-LQM2HPN4R7MG0L_C82314.pdf
+$ENDCMP
+#
+$CMP MCS0630-3R3MN2
+D 3.3uH ±20% 6A 28mΩ 0630,SMD,7.3x6.6mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_PSA-Prosperity-Dielectrics-MCS0630-3R3MN2_C394166.pdf
+$ENDCMP
+#
+$CMP VLS201610ET-100M
+D SMD  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007171934_TDK-VLS201610ET-100M_C695623.pdf
+$ENDCMP
+#
+$CMP SLF12565T-101M1R6-PF
+D 100uH ±20% 1.9A 148mΩ SMD,12.5x12.5x6.5mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810211710_TDK-SLF12565T-101M1R6-PF_C114777.pdf
+$ENDCMP
+#
+$CMP LQH3NPZ4R7MMEL
+D 1212  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008131233_Murata-Electronics-LQH3NPZ4R7MMEL_C527613.pdf
+$ENDCMP
+#
+$CMP GPSR0520-100M
+D 10uH ±20% 2A 170mΩ SMD,4.7x5.2x2.0mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2003311817_Gantong-GPSR0520-100M_C477151.pdf
+$ENDCMP
+#
+$CMP HCM0703-4R7-R
+D 4.7uH ±20% 5.5A 37mΩ SMD,7.1x6.6x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_EATON-HCM0703-4R7-R_C427309.pdf
+$ENDCMP
+#
+$CMP PSPMAA0603-4R7M-ANF
+D SMD,7.1x6.6x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008121733_PROD-Tech-PSPMAA0603-4R7M-ANF_C436547.pdf
+$ENDCMP
+#
+$CMP LQM2HPN2R2MEHL
+D 2.2uH ±20% 1.3A 150mΩ 2520  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810250908_Murata-Electronics-LQM2HPN2R2MEHL_C171754.pdf
+$ENDCMP
+#
+$CMP CMP321609UD2R2KT
+D 2.2uH ±10% 900mA 240mΩ 1206  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CMP321609UD2R2KT_C395023.pdf
+$ENDCMP
+#
+$CMP CBC3225T100KR
+D 10uH ±10% 900mA 172.9mΩ 1210  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811142212_Taiyo-Yuden-CBC3225T100KR_C90321.pdf
+$ENDCMP
+#
+$CMP CMI321609VR39KT
+D 390nH ±10% 200mA 500mΩ 1206  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CMI321609VR39KT_C394984.pdf
+$ENDCMP
+#
+$CMP ASPI-0403S-100M-T
+D 10uH ±20% 1A 75mΩ SMD,6.6x4.45x2.92mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809291550_Abracon-LLC-ASPI-0403S-100M-T_C187222.pdf
+$ENDCMP
+#
+$CMP LQH3NPN220MJRL
+D 22uH ±20% 520mA 500mΩ 1212  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810221840_Murata-Electronics-LQH3NPN220MJRL_C110302.pdf
+$ENDCMP
+#
+$CMP SNR5040K-220M
+D 22uH ±20% 1.5A 129mΩ SMD,5.0x5.0mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_3L-COILS-SNR5040K-220M_C326320.pdf
+$ENDCMP
+#
+$CMP GPSR0420-4R7MS01
+D SMD,4.0x4.3x2.0mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2003311817_Gantong-GPSR0420-4R7MS01_C477143.pdf
+$ENDCMP
+#
+$CMP LBM2016T151J
+D 150uH ±5% 69mA 13.5Ω 0806  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Taiyo-Yuden-LBM2016T151J_C222624.pdf
+$ENDCMP
+#
+$CMP GCRH127-101MC
+D SMD,12.3x12.3x8mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008051232_GLE-GCRH127-101MC_C439409.pdf
+$ENDCMP
+#
+$CMP LQM2MPN2R2MG0L
+D 2.2uH ±20% 1.2A 138mΩ 0806  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810241417_Murata-Electronics-LQM2MPN2R2MG0L_C86093.pdf
+$ENDCMP
+#
+$CMP MDMK4040T2R2MFV
+D RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP SLF12565T-330M2R8-H
+D 33uH ±20% 2.8A 40.6mΩ SMD,12.5x12.5mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TDK-SLF12565T-330M2R8-H_C433041.pdf
+$ENDCMP
+#
+$CMP NLCV32T-R22M-EFR
+D 220nH ±20% 2.4A 27mΩ 1210  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TDK-NLCV32T-R22M-EFR_C295225.pdf
+$ENDCMP
+#
+$CMP LQH32PZ100MNCL
+D 10uH ±20% 1A 295mΩ 1210  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Murata-Electronics-LQH32PZ100MNCL_C464437.pdf
+$ENDCMP
+#
+$CMP GCRH73-680MC
+D 68uH ±20% 610mA 520mΩ SMD,7.3x7.3x3.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007151232_GLE-GCRH73-680MC_C439495.pdf
+$ENDCMP
+#
+$CMP GCDA0630-330MC
+D 33uH ±20% 1A 300mΩ SMD,7.5x6.6x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912181205_GLE-GCDA0630-330MC_C439280.pdf
+$ENDCMP
+#
+$CMP PSPMAA1040H-100M-ANP
+D SMD,11.5x10x4mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2011031037_PROD-Tech-PSPMAA1040H-100M-ANP_C436573.pdf
+$ENDCMP
+#
+$CMP CDRH105RNP-390NC
+D RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP SCD0403T-3R3M-N
+D 3.3uH ±20% 2.15A 58mΩ SMD,4.5x4x3.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811151241_Chilisin-Elec-SCD0403T-3R3M-N_C280611.pdf
+$ENDCMP
+#
+$CMP IHLP2525CZER150M8A
+D RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP CBC3225T4R7MR
+D 4.7uH ±20% 1.01A 130mΩ 1210  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810171818_Taiyo-Yuden-CBC3225T4R7MR_C90319.pdf
+$ENDCMP
+#
+$CMP NLV25T-2R2J-PF
+D 2.2uH ±5% 200mA 1.55Ω 1008  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810241920_TDK-NLV25T-2R2J-PF_C76829.pdf
+$ENDCMP
+#
+$CMP GPSR0850-470M
+D 47uH ±20% 2A 206mΩ SMD,7.8x7.2x5mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2003131816_Gantong-GPSR0850-470M_C477330.pdf
+$ENDCMP
+#
+$CMP MGFL2012F100MT-LF
+D 10uH ±20% 500mA 320mΩ 0805  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141852_microgate-MGFL2012F100MT-LF_C281113.pdf
+$ENDCMP
+#
+$CMP MCEE1005TR10MHN
+D 0402  RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP MS1040-8R2M
+D 8.2uH ±20% 6A 25mΩ SMD,11.5x10x4mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_COILMX-MS1040-8R2M_C380051.pdf
+$ENDCMP
+#
+$CMP MLG1005S0N5CT000
+D 0402  RoHS Inductors (SMD)
+K 
+F 
+$ENDCMP
+#
+$CMP LQW15AN30NG00D
+D 30nH ±2% 270mA 580mΩ 0402  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811081613_Murata-Electronics-LQW15AN30NG00D_C91623.pdf
+$ENDCMP
+#
+$CMP NL453232T-820J-PF
+D 82uH ±5% 120mA 7Ω SMD,4.5x3.2x3.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810081622_TDK-NL453232T-820J-PF_C250206.pdf
+$ENDCMP
+#
+$CMP MMD-10DZ-8R2M-X2
+D 8.2uH ±20% 5.5A 30Ω SMD,11.5x10.5x4.0mm(max)  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MAGLAYERS-MMD-10DZ-8R2M-X2_C337559.pdf
+$ENDCMP
+#
+$CMP BCIHP0730-8R2M
+D 8.2uH ±20% 4A 68mΩ SMD,7x7x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2012311032_BC-Bao-Cheng-Elec-BCIHP0730-8R2M_C237913.pdf
+$ENDCMP
+#
+$CMP NL453232T-1R0J-PF
+D 1uH ±5% 450mA 500mΩ 1812  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810101621_TDK-NL453232T-1R0J-PF_C136259.pdf
+$ENDCMP
+#
+$CMP NL453232T-390J-PF
+D 39uH ±5% 150mA 4.5Ω SMD,4.5x3.2x3.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810081622_TDK-NL453232T-390J-PF_C250204.pdf
+$ENDCMP
+#
+$CMP NL453232T-220J-PF
+D 22uH ±5% 180mA 3.2Ω 1812  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809181715_TDK-NL453232T-220J-PF_C86697.pdf
+$ENDCMP
+#
+$CMP NL453232T-3R3J-PF
+D 3.3uH ±5% 355mA 800mΩ SMD,4.5x3.2x3.2mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810081621_TDK-NL453232T-3R3J-PF_C250194.pdf
+$ENDCMP
+#
+$CMP SPM5030T-3R3M-HZ
+D 3.3uH ±20% 4.3A 26.8mΩ SMD,5.2x5x3mm  RoHS Inductors (SMD)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007071233_TDK-SPM5030T-3R3M-HZ_C518955.pdf
+$ENDCMP
+#
+$CMP SDCL1005C10NJTDF
+D 10nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C10NJTDF_C27147.pdf
+$ENDCMP
+#
+$CMP SDCL1005C12NJTDF
+D 12nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C12NJTDF_C24563.pdf
+$ENDCMP
+#
+$CMP SDCL1005C15NJTDF
+D 15nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C15NJTDF_C27143.pdf
+$ENDCMP
+#
+$CMP SDCL1005C18NJTDF
+D 18nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C18NJTDF_C24562.pdf
+$ENDCMP
+#
+$CMP SDCL1005C2N7STDF
+D 2.7nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C2N7STDF_C27123.pdf
+$ENDCMP
+#
+$CMP SDCL1005C27NJTDF
+D 27nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C27NJTDF_C18830.pdf
+$ENDCMP
+#
+$CMP SDCL1005C3N9STDF
+D 3.9nH ±3% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C3N9STDF_C14033.pdf
+$ENDCMP
+#
+$CMP SDCL1005C39NJTDF
+D 39nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C39NJTDF_C26443.pdf
+$ENDCMP
+#
+$CMP SDCL1005C4N7STDF
+D 4.7nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C4N7STDF_C13595.pdf
+$ENDCMP
+#
+$CMP SDCL1005C6N8JTDF
+D 6.8nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C6N8JTDF_C32041.pdf
+$ENDCMP
+#
+$CMP SDCL1005C8N2JTDF
+D 8.2nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C8N2JTDF_C16208.pdf
+$ENDCMP
+#
+$CMP SDCL1608C27NJTDF
+D 27nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C27NJTDF_C12100.pdf
+$ENDCMP
+#
+$CMP SDCL1608C10NJTDF
+D 10nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C10NJTDF_C15666.pdf
+$ENDCMP
+#
+$CMP SDCL1608C12NJTDF
+D 12nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C12NJTDF_C29258.pdf
+$ENDCMP
+#
+$CMP SDCL1608C22NJTDF
+D 22nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C22NJTDF_C12099.pdf
+$ENDCMP
+#
+$CMP SDCL1608C3N9STDF
+D 3.9nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C3N9STDF_C13818.pdf
+$ENDCMP
+#
+$CMP SDCL1608C33NJTDF
+D 33nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C33NJTDF_C35050.pdf
+$ENDCMP
+#
+$CMP VHF160808H4N7ST
+D 4.7nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H4N7ST_C1030.pdf
+$ENDCMP
+#
+$CMP SDCL1608C47NJTDF
+D 47nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C47NJTDF_C29683.pdf
+$ENDCMP
+#
+$CMP SDCL1608C68NJTDF
+D 68nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C68NJTDF_C13415.pdf
+$ENDCMP
+#
+$CMP SDCL1608C8N2JTDF
+D 8.2nH ±5% 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C8N2JTDF_C1032.pdf
+$ENDCMP
+#
+$CMP VHF160808H1N8ST
+D 1.8nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H1N8ST_C1026.pdf
+$ENDCMP
+#
+$CMP VHF160808H1N0ST
+D 1nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H1N0ST_C1027.pdf
+$ENDCMP
+#
+$CMP VHF160808H2N2ST
+D 2.2nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H2N2ST_C1028.pdf
+$ENDCMP
+#
+$CMP VHF160808H3N3ST
+D 3.3nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H3N3ST_C1029.pdf
+$ENDCMP
+#
+$CMP VHF160808H5N6ST
+D 5.6nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H5N6ST_C1031.pdf
+$ENDCMP
+#
+$CMP VHF201209H1N8ST
+D 1.8nH ±0.3nH 600mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H1N8ST_C1036.pdf
+$ENDCMP
+#
+$CMP VHF201209H2N2ST
+D 2.2nH ±0.3nH 600mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H2N2ST_C1037.pdf
+$ENDCMP
+#
+$CMP VHF201209H4N7ST
+D 4.7nH ±0.3nH 400mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H4N7ST_C1039.pdf
+$ENDCMP
+#
+$CMP VHF201209H8N2JT
+D 8.2nH ±5% 400mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H8N2JT_C1041.pdf
+$ENDCMP
+#
+$CMP LQG15HS22NJ02D
+D 22nH ±5% 350mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS22NJ02D_C12670.pdf
+$ENDCMP
+#
+$CMP SDCL1608C56NJTDF
+D 56nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C56NJTDF_C12831.pdf
+$ENDCMP
+#
+$CMP SDCL1608C2N7STDF
+D 2.7nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C2N7STDF_C13817.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N2STDF
+D 1.2nH ±0.3nH 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C1N2STF_C14475.pdf
+$ENDCMP
+#
+$CMP SDCL1005C22NJTDF
+D 22nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C22NJTDF_C15178.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR39JTDF
+D 390nH ±5% 150mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR39JTF_C15565.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR15JTDF
+D 150nH ±5% 200mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR15JTDF_C15566.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR12JTDF
+D 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR12JTDF_C16150.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR12JTDF_
+D 220nH ±5% 200mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR12JTDF_C16151.pdf
+$ENDCMP
+#
+$CMP SDCL1005C3N3STDF
+D 3.3nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C3N3STDF_C16526.pdf
+$ENDCMP
+#
+$CMP LQG15HS2N0S02D
+D 2nH ±0.3nH 900mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1905141112_Murata-Electronics-LQG15HS2N0S02D_C18216.pdf
+$ENDCMP
+#
+$CMP LQG15HS1N0S02D
+D 1nH ±0.3nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS1N0S02D_C18222.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N8STDF
+D 1.8nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C1N8STDF_C18304.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR22JTDF
+D 220nH ±5% 100mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR22JTDF_C18834.pdf
+$ENDCMP
+#
+$CMP LQG15HS3N6S02D
+D 3.6nH ±0.3nH 750mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS3N6S02D_C19216.pdf
+$ENDCMP
+#
+$CMP LQP18MN6N8C02
+D 6.8nH ±0.2nH 200mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP18MN6N8C02_C19227.pdf
+$ENDCMP
+#
+$CMP LQG15HS3N0S02D
+D 3nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS3N0S02D_C19898.pdf
+$ENDCMP
+#
+$CMP VHF201209HR10JT
+D 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209HR10JT_C20116.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR47JTDF
+D 470nH ±5% 150mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR47JTDF_C21307.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR18JTDF
+D 180nH ±5% 200mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR18JTDF_C21430.pdf
+$ENDCMP
+#
+$CMP SDCL1608C1N5STDF
+D 1.5nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C1N5STDF_C22223.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR22JTDF
+D 220nH ±5% 200mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR22JTDF_C22476.pdf
+$ENDCMP
+#
+$CMP SDCL1005C3N0STDF
+D 3nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C3N0STDF_C22718.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR10JTDF
+D 100nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR10JTDF_C22726.pdf
+$ENDCMP
+#
+$CMP SDCL1005C2N4STDF
+D 2.4nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C2N4STDF_C22727.pdf
+$ENDCMP
+#
+$CMP SDCL1608C82NJTDF
+D 82nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C82NJTDF_C23473.pdf
+$ENDCMP
+#
+$CMP SDCL1608C15NJTDF
+D 15nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C15NJTDF_C23651.pdf
+$ENDCMP
+#
+$CMP LQP15MN4N7B02D
+D 4.7nH ±0.1nH 160mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN4N7B02D_C23769.pdf
+$ENDCMP
+#
+$CMP SDCL1005C2N2STDF
+D 2.2nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C2N2STDF_C27122.pdf
+$ENDCMP
+#
+$CMP SDCL1005C22NJTDF_
+D 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C22NJTDF_C27145.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N5STDF
+D 1.5nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C1N5STDF_C27146.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR12JTDF
+D 120nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR12JTDF_C27149.pdf
+$ENDCMP
+#
+$CMP SDCL1005C47NJTDF
+D 47nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C47NJTDF_C27151.pdf
+$ENDCMP
+#
+$CMP SDCL1608C3N3STDF
+D 3.3nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C3N3STDF_C27274.pdf
+$ENDCMP
+#
+$CMP SDCL1608C2N2STDF
+D 2.2nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C2N2STDF_C29682.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR39JTDF_
+D 390nH ±5% 150mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR39JTDF_C30824.pdf
+$ENDCMP
+#
+$CMP SDCL1005C56NJTDF
+D 56nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C56NJTDF_C32004.pdf
+$ENDCMP
+#
+$CMP SDCL1005C68NJTDF
+D 68nH ±5% 180mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C68NJTDF_C32836.pdf
+$ENDCMP
+#
+$CMP SDCL1005C33NJTDF
+D 33nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C33NJTDF_C32837.pdf
+$ENDCMP
+#
+$CMP SDCL1005C5N1STDF
+D 5.1nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C5N1STDF_C33114.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N1STDF
+D 1.1nH ±0.3nH 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Made-in-China-SDCL1005C1N1STDF_C33115.pdf
+$ENDCMP
+#
+$CMP FHW0805UF2R2JST
+D 2.2uH ±5% 350mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1812131554_Guangdong-Fenghua-Advanced-Tech-FHW0805UF2R2JST_C41651.pdf
+$ENDCMP
+#
+$CMP SDCL1608C1N0STDF
+D 1nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C1N0STDF_C41902.pdf
+$ENDCMP
+#
+$CMP VHF160808H15NJT
+D 15nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H15NJT_C42028.pdf
+$ENDCMP
+#
+$CMP SDCL1005C2N0STDF
+D 2nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C2N0STDF_C43365.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR15JTDF
+D 150nH ±5% 100mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR15JTDF_C44566.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR18JTDF
+D 180nH ±5% 100mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR18JTDF_C44943.pdf
+$ENDCMP
+#
+$CMP SDCL1608C1N8STDF
+D 1.8nH ±10% 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1907251031_Sunlord-SDCL1608C1N8STDF_C44946.pdf
+$ENDCMP
+#
+$CMP VHF201209H47NJT
+D 47nH ±5% 300mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H47NJT_C46431.pdf
+$ENDCMP
+#
+$CMP VHF201209H33NJT
+D 33nH ±5% 300mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H33NJT_C46432.pdf
+$ENDCMP
+#
+$CMP VHF201209HR12JT
+D 120nH ±5% 300mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209HR12JT_C46435.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR33JTDF
+D 330nH ±5% 150mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR33JTDF_C46859.pdf
+$ENDCMP
+#
+$CMP SDCL1608C18NJTDF
+D 18nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C18NJTDF_C48590.pdf
+$ENDCMP
+#
+$CMP SDCL1608C6N8JTDF
+D 6.8nH ±5% 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1811191012_Sunlord-SDCL1608C6N8JTDF_C49447.pdf
+$ENDCMP
+#
+$CMP SDCL1005C82NJTDF
+D 82nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C82NJTDF_C49500.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR27JTDF
+D 270nH ±5% 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1903211030_Sunlord-SDCL1005CR27JTDF_C49501.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR27JTDF
+D 270nH ±5% 150mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR27JTDF_C51060.pdf
+$ENDCMP
+#
+$CMP SDCL1005C4N3STDF
+D 4.3nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C4N3STDF_C52051.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR68JTDF
+D 680nH ±5% 100mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR68JTDF_C55546.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N0STDF
+D 1nH ±0.3nH 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C1N0STDF_C57117.pdf
+$ENDCMP
+#
+$CMP LQG18HN22NJ00D
+D 22nH ±5% 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG18HN22NJ00D_C71649.pdf
+$ENDCMP
+#
+$CMP SDCL1005C7N5JTDFM01
+D 7.5nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C7N5JTDFM01_C74295.pdf
+$ENDCMP
+#
+$CMP SDCL1005C9N1STDFM01
+D 9.1nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C9N1STDFM01_C74297.pdf
+$ENDCMP
+#
+$CMP SDCL1005C1N0STDFM01
+D 1nH ±0.3nH 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C1N0STDFM01_C74299.pdf
+$ENDCMP
+#
+$CMP SDCL1608C3N0STDF
+D 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C3N0STDF_C74307.pdf
+$ENDCMP
+#
+$CMP SDCL1608C39NJTDF
+D 39nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C39NJTDF_C74308.pdf
+$ENDCMP
+#
+$CMP SDCL1608CR10JTDF
+D 100nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608CR10JTDF_C74310.pdf
+$ENDCMP
+#
+$CMP SDCL1608C5N6STDF
+D 5.6nH ±5% 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C5N6STDF_C74312.pdf
+$ENDCMP
+#
+$CMP VHF160808H39NJT
+D 39nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H39NJT_C75654.pdf
+$ENDCMP
+#
+$CMP VHF160808H12NJT
+D 12nH ±5% 300mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H12NJT_C75656.pdf
+$ENDCMP
+#
+$CMP MLG1005S0N6BT000
+D 0.6nH ±0.1nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S0N6BT000_C76758.pdf
+$ENDCMP
+#
+$CMP MLG1005S0N8BT000
+D 0.8nH ±0.1nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S0N8BT000_C76759.pdf
+$ENDCMP
+#
+$CMP MLG1005S10NHT000
+D 10nH ±3% 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S10NHT000_C76760.pdf
+$ENDCMP
+#
+$CMP MLG1005S15NJT000
+D 15nH ±5% 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S15NJT000_C76763.pdf
+$ENDCMP
+#
+$CMP MLG1005S18NJT000
+D 18nH ±5% 350mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S18NJT000_C76764.pdf
+$ENDCMP
+#
+$CMP MLG1005S1N0BT000
+D 1nH ±0.1nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S1N0BT000_C76765.pdf
+$ENDCMP
+#
+$CMP MLG1005S1N0ST000
+D 1nH ±0.3nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S1N0ST000_C76766.pdf
+$ENDCMP
+#
+$CMP MLG1005S1N3BT000
+D 1.3nH ±0.1nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S1N3BT000_C76767.pdf
+$ENDCMP
+#
+$CMP MLG1005S2N7ST000
+D 2.7nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S2N7ST000_C76770.pdf
+$ENDCMP
+#
+$CMP MLG1005S30NJT000
+D 30nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S30NJT000_C76771.pdf
+$ENDCMP
+#
+$CMP MLG1005S33NJT000
+D 33nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S33NJT000_C76772.pdf
+$ENDCMP
+#
+$CMP MLG1005S3N0ST000
+D 2.3nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S3N0ST000_C76773.pdf
+$ENDCMP
+#
+$CMP MLG1005S3N3ST000
+D 3.3nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S3N3ST000_C76774.pdf
+$ENDCMP
+#
+$CMP MLG1005S3N9BT000
+D 3.9nH ±0.1nH 700mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S3N9BT000_C76775.pdf
+$ENDCMP
+#
+$CMP MLG1005S47NJT000
+D 47nH ±5% 250mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S47NJT000_C76776.pdf
+$ENDCMP
+#
+$CMP MLG1005S56NJT000
+D 56nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S56NJT000_C76777.pdf
+$ENDCMP
+#
+$CMP MLG1005S8N2HT000
+D 8.2nH ±3% 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S8N2HT000_C76778.pdf
+$ENDCMP
+#
+$CMP MLG1005SR10JT000
+D 100nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR10JT000_C76779.pdf
+$ENDCMP
+#
+$CMP MLG1005SR12JT000
+D 120nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR12JT000_C76780.pdf
+$ENDCMP
+#
+$CMP MLG1005SR15JT000
+D 150nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR15JT000_C76781.pdf
+$ENDCMP
+#
+$CMP MLG1005SR18JT000
+D 180nH ±5% 150mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR18JT000_C76782.pdf
+$ENDCMP
+#
+$CMP MLG1005SR22JT000
+D 220nH ±5% 100mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR22JT000_C76783.pdf
+$ENDCMP
+#
+$CMP MLG1005SR27JT000
+D 270nH ±5% 100mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR27JT000_C76784.pdf
+$ENDCMP
+#
+$CMP MLG1005SR33JT000
+D 330nH ±5% 50mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR33JT000_C76785.pdf
+$ENDCMP
+#
+$CMP MLG1005SR39JT000
+D 390nH ±5% 50mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005SR39JT000_C76786.pdf
+$ENDCMP
+#
+$CMP MLK1005S15NJT000
+D 15nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S15NJT000_C76787.pdf
+$ENDCMP
+#
+$CMP MLK1005S1N0ST000
+D 1nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S1N0ST000_C76788.pdf
+$ENDCMP
+#
+$CMP MLK1005S1N8ST000
+D 1.8nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S1N8ST000_C76789.pdf
+$ENDCMP
+#
+$CMP MLK1005S2N2ST000
+D 2.2nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S2N2ST000_C76790.pdf
+$ENDCMP
+#
+$CMP MLK1005S2N7ST000
+D 2.7nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S2N7ST000_C76791.pdf
+$ENDCMP
+#
+$CMP LQG15HS10NJ02D
+D 10nH ±5% 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS10NJ02D_C77103.pdf
+$ENDCMP
+#
+$CMP LQG15HS12NJ02D
+D 12nH ±5% 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS12NJ02D_C77104.pdf
+$ENDCMP
+#
+$CMP LQG15HS1N2S02D
+D 1.2nH ±0.3nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS1N2S02D_C77105.pdf
+$ENDCMP
+#
+$CMP LQG15HS1N5S02D
+D 1.5nH ±0.3nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS1N5S02D_C77106.pdf
+$ENDCMP
+#
+$CMP LQG15HS2N7S02D
+D 2.7nH ±0.3nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS2N7S02D_C77108.pdf
+$ENDCMP
+#
+$CMP LQG15HS3N9S02D
+D 3.9nH ±0.3nH 750mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS3N9S02D_C77109.pdf
+$ENDCMP
+#
+$CMP LQG15HSR27J02D
+D 270nH ±5% 110mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HSR27J02D_C77111.pdf
+$ENDCMP
+#
+$CMP LQP15MN1N0B02D
+D 1nH ±0.1nH 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN1N0B02D_C77116.pdf
+$ENDCMP
+#
+$CMP LQP15MN1N2B02D
+D 1.2nH ±0.1nH 390mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN1N2B02D_C77117.pdf
+$ENDCMP
+#
+$CMP LQP15MN1N5B02D
+D 1.5nH ±0.1nH 280mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN1N5B02D_C77118.pdf
+$ENDCMP
+#
+$CMP LQP15MN1N8B02D
+D 1.8nH ±0.1nH 280mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN1N8B02D_C77119.pdf
+$ENDCMP
+#
+$CMP LQP15MN2N2B02D
+D 2.2nH ±0.1nH 220mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN2N2B02D_C77120.pdf
+$ENDCMP
+#
+$CMP LQP15MN2N7B02D
+D 2.7nH ±0.1nH 220mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN2N7B02D_C77121.pdf
+$ENDCMP
+#
+$CMP LQP15MN3N3B02D
+D 3.3nH ±0.1nH 190mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN3N3B02D_C77122.pdf
+$ENDCMP
+#
+$CMP LQP15MN3N9B02D
+D 3.9nH ±0.1nH 170mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQP15MN3N9B02D_C77123.pdf
+$ENDCMP
+#
+$CMP VHF160808H2N7ST
+D 2.7nH ±0.3nH 400mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF160808H2N7ST_C83929.pdf
+$ENDCMP
+#
+$CMP LQG15HS5N6S02D
+D 5.6nH ±0.3nH 650mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS5N6S02D_C85670.pdf
+$ENDCMP
+#
+$CMP LQG15HS15NJ02D
+D 15nH ±5% 450mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS15NJ02D_C86059.pdf
+$ENDCMP
+#
+$CMP LQG15HS18NJ02D
+D 18nH ±5% 400mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS18NJ02D_C86060.pdf
+$ENDCMP
+#
+$CMP LQG15HS2N2S02D
+D 2.2nH ±0.3nH 900mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HS2N2S02D_C86061.pdf
+$ENDCMP
+#
+$CMP HK10051N0S-T
+D 1nH ±0.3nH 900mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10051N0S-T_C87174.pdf
+$ENDCMP
+#
+$CMP HK10051N5S-T
+D 1.5nH ±0.3nH 850mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10051N5S-T_C87175.pdf
+$ENDCMP
+#
+$CMP HK10052N0S-T
+D 2nH ±0.3nH 700mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10052N0S-T_C87176.pdf
+$ENDCMP
+#
+$CMP HK10052N2S-T
+D 2.2nH ±0.3nH 700mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10052N2S-T_C87177.pdf
+$ENDCMP
+#
+$CMP HK10052N7S-T
+D 2.7nH ±0.3nH 650mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10052N7S-T_C87178.pdf
+$ENDCMP
+#
+$CMP HK10053N3S-T
+D 3.3nH ±0.3nH 550mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10053N3S-T_C87179.pdf
+$ENDCMP
+#
+$CMP HK10053N9S-T
+D 3.9nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10053N9S-T_C87180.pdf
+$ENDCMP
+#
+$CMP HK10055N1S-T
+D 5.1nH ±0.3nH 450mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10055N1S-T_C87182.pdf
+$ENDCMP
+#
+$CMP HK10055N6S-T
+D 5.6nH ±0.3nH 430mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10055N6S-T_C87183.pdf
+$ENDCMP
+#
+$CMP HK10056N8J-T
+D 6.8nH ±5% 430mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10056N8J-T_C87184.pdf
+$ENDCMP
+#
+$CMP HK10058N2J-T
+D 8.2nH ±5% 380mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10058N2J-T_C87185.pdf
+$ENDCMP
+#
+$CMP HK10059N1J-T
+D 9.1nH ±5% 360mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10059N1J-T_C87186.pdf
+$ENDCMP
+#
+$CMP HK100510NJ-T
+D 10nH ±5% 340mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100510NJ-T_C87187.pdf
+$ENDCMP
+#
+$CMP HK100512NJ-T
+D 12nH ±5% 330mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100512NJ-T_C87188.pdf
+$ENDCMP
+#
+$CMP HK100518NJ-T
+D 18nH ±5% 310mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100518NJ-T_C87190.pdf
+$ENDCMP
+#
+$CMP HK100522NJ-T
+D 22nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100522NJ-T_C87191.pdf
+$ENDCMP
+#
+$CMP HK100533NJ-T
+D 33nH ±5% 250mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100533NJ-T_C87193.pdf
+$ENDCMP
+#
+$CMP HK100539NJ-T
+D 39nH ±5% 250mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100539NJ-T_C87194.pdf
+$ENDCMP
+#
+$CMP HK100547NJ-T
+D 47nH ±5% 230mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100547NJ-T_C87195.pdf
+$ENDCMP
+#
+$CMP HK1005R10J-T
+D 100nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK1005R10J-T_C87196.pdf
+$ENDCMP
+#
+$CMP MLG1005S1N6BT000
+D 1.6nH ±0.1nH 1A 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S1N6BT000_C87529.pdf
+$ENDCMP
+#
+$CMP MLG1005S1N8BT000
+D 1.8nH ±0.1nH 900mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S1N8BT000_C87530.pdf
+$ENDCMP
+#
+$CMP MLG1005S39NJT000
+D 39nH ±5% 250mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S39NJT000_C87531.pdf
+$ENDCMP
+#
+$CMP MLG1005S3N3BT000
+D 3.3nH ±0.1nH 800mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S3N3BT000_C87532.pdf
+$ENDCMP
+#
+$CMP MLG1005S68NJT000
+D 68nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S68NJT000_C87533.pdf
+$ENDCMP
+#
+$CMP MLG1005S6N8HT000
+D 6.8nH ±3% 600mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S6N8HT000_C87535.pdf
+$ENDCMP
+#
+$CMP MLG1005S7N5JT000
+D 7.5nH ±5% 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S7N5JT000_C87536.pdf
+$ENDCMP
+#
+$CMP HK10052N4S-T
+D 2.4nH ±0.3nH 650mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10052N4S-T_C89158.pdf
+$ENDCMP
+#
+$CMP HK10053N0S-T
+D 3nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10053N0S-T_C89159.pdf
+$ENDCMP
+#
+$CMP HK10053N6S-T
+D 3.6nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10053N6S-T_C89160.pdf
+$ENDCMP
+#
+$CMP HK10054N3S-T
+D 4.3nH ±0.3nH 500mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK10054N3S-T_C89161.pdf
+$ENDCMP
+#
+$CMP HK100568NJ-T
+D 68nH ±5% 200mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Taiyo-Yuden-HK100568NJ-T_C89164.pdf
+$ENDCMP
+#
+$CMP MLG1005S3N9CT000
+D 3.9nH ±0.2nH 700mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S3N9CT000_C89442.pdf
+$ENDCMP
+#
+$CMP MLG1005S5N1ST000
+D 5.1nH ±0.3nH 600mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLG1005S5N1ST000_C89443.pdf
+$ENDCMP
+#
+$CMP MLK1005S18NJT000
+D 18nH ±5% 250mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/TDK-MLK1005S18NJT000_C89444.pdf
+$ENDCMP
+#
+$CMP SDCL1005CR33JTDF
+D 330nH ±5% 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005CR33JTDF_C89954.pdf
+$ENDCMP
+#
+$CMP SDCL1608C4N7STDF
+D 4.7nH ±0.3nH 500mA 0603 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1608C4N7STDF_C89955.pdf
+$ENDCMP
+#
+$CMP LQG15HN33NJ02D
+D 33nH ±5% 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Murata-Electronics-LQG15HN33NJ02D_C84398.pdf
+$ENDCMP
+#
+$CMP SDWL2012C82NJSTF
+D 82nH ±5% 400mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDWL2012C82NJSTF_C145056.pdf
+$ENDCMP
+#
+$CMP HSC0805-R56J-T
+D 560nH ±5% 230mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/EMTEK-HSC0805-R56J-T_C251845.pdf
+$ENDCMP
+#
+$CMP VHF201209H33NJ
+D 33nH ±5% 300mA 0805 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-VHF201209H33NJ_C98993.pdf
+$ENDCMP
+#
+$CMP SDCL1005C5N6STDF
+D 5.6nH ±0.3nH 300mA 0402 RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/Sunlord-SDCL1005C5N6STDF_C279520.pdf
+$ENDCMP
+#
+$CMP MLG1005S24NHT000
+D 24nH ±3% 350mA 430mΩ 0402  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TDK-MLG1005S24NHT000_C275275.pdf
+$ENDCMP
+#
+$CMP LQP15MN1N3B02D
+D 1.3nH ±0.1nH 280mA 200mΩ 0402  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1811081613_Murata-Electronics-LQP15MN1N3B02D_C98049.pdf
+$ENDCMP
+#
+$CMP SDCL1005C20NJTDF
+D 20nH ±0.3nH 300mA 600mΩ 0402  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021715_Sunlord-SDCL1005C20NJTDF_C96730.pdf
+$ENDCMP
+#
+$CMP MLG1005S0N5BT000
+D 0.5nH ±0.1nH 1A 100mΩ 0402  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1809051311_TDK-MLG1005S0N5BT000_C87528.pdf
+$ENDCMP
+#
+$CMP MLG1005S2N4BTD25
+D 2.4nH ±0.1nH 800mA 80mΩ 0402  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TDK-MLG1005S2N4BTD25_C404619.pdf
+$ENDCMP
+#
+$CMP FHW1812IF330JST
+D 33uH ±5% 350mA 1.7Ω 1812  RoHS HF Inductors
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-FHW1812IF330JST_C394127.pdf
+$ENDCMP
+#
+$CMP CBW453215U900T
+D 90Ω @ 100MHz 4A 1 80mΩ SMD,4.5x3.2x1.5mm  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CBW453215U900T_C304174.pdf
+$ENDCMP
+#
+$CMP CBG321609U000T
+D 0Ω @ 100MHz 1A 1 100mΩ 1206  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1810271623_FH-Guangdong-Fenghua-Advanced-Tech-CBG321609U000T_C94305.pdf
+$ENDCMP
+#
+$CMP PZ3216U300-6R0TF
+D 30Ω @ 100MHz 6A 1 10mΩ 1206  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231132_Sunlord-PZ3216U300-6R0TF_C316417.pdf
+$ENDCMP
+#
+$CMP CBG322513U102T
+D 1kΩ @ 100MHz 300mA 1 400mΩ 1210  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141410_FH-Guangdong-Fenghua-Advanced-Tech-CBG322513U102T_C124093.pdf
+$ENDCMP
+#
+$CMP CBM321609U110T
+D 11Ω @ 100MHz 6A 1 15mΩ 1206  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CBM321609U110T_C391202.pdf
+$ENDCMP
+#
+$CMP BLE32PN300SN1L
+D 30Ω @ 100MHz 10A 1 1.6mΩ 1210  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1810250922_Murata-Electronics-BLE32PN300SN1L_C74172.pdf
+$ENDCMP
+#
+$CMP FBMA-11-453215-900A60T
+D 90Ω @ 100MHz 6A 1 10mΩ 1812  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/2003182012_Kingcore-FBMA-11-453215-900A60T_C491659.pdf
+$ENDCMP
+#
+$CMP BPH403025W4-470T
+D 47Ω @ 100MHz 15A 1 0.6mΩ SMD,4x3.1x2.5mm  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/2009171106_TAI-TECH-BPH403025W4-470T_C356834.pdf
+$ENDCMP
+#
+$CMP CBG453215U121T
+D 120Ω @ 100MHz 500mA 1 250mΩ 1812  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1811111512_FH-Guangdong-Fenghua-Advanced-Tech-CBG453215U121T_C75662.pdf
+$ENDCMP
+#
+$CMP MPZ2012S601ATD25
+D 600Ω @ 100MHz 2A 1 100mΩ 0805  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1810132013_TDK-MPZ2012S601ATD25_C81034.pdf
+$ENDCMP
+#
+$CMP BLM18KG700TN1D
+D 70Ω @ 100MHz 3.5A 1 22mΩ 0603  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1810311821_Murata-Electronics-BLM18KG700TN1D_C113029.pdf
+$ENDCMP
+#
+$CMP CBW453215U101T
+D 100Ω @ 100MHz 4A 1 80mΩ 1812  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CBW453215U101T_C394519.pdf
+$ENDCMP
+#
+$CMP CBG100505U260T
+D 26Ω @ 100MHz 300mA 1 150mΩ 0402  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/2006200933_FH-Guangdong-Fenghua-Advanced-Tech-CBG100505U260T_C668229.pdf
+$ENDCMP
+#
+$CMP CBG160808U301T
+D 300Ω @ 100MHz 150mA 1 500mΩ 0603  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1811091411_FH-Guangdong-Fenghua-Advanced-Tech-CBG160808U301T_C98490.pdf
+$ENDCMP
+#
+$CMP CBW453215U121T
+D 120Ω @ 100MHz 4A 1 80mΩ 1812  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FH-Guangdong-Fenghua-Advanced-Tech-CBW453215U121T_C394520.pdf
+$ENDCMP
+#
+$CMP MCZ1210AD221T001
+D 220Ω @ 100MHz 350mA 2 300mΩ SMD,1.25x1x0.85mm  RoHS Ferrite Beads
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TDK-MCZ1210AD221T001_C380019.pdf
+$ENDCMP
+#
+#End Doc Library

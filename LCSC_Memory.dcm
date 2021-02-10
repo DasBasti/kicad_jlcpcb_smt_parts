@@ -1,0 +1,2577 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24C256C-SSHL-T
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C256C-SSHL-T_C6482.pdf
+$ENDCMP
+#
+$CMP M24C02-WMN6TP
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-WMN6TP_C7562.pdf
+$ENDCMP
+#
+$CMP M24C64-RMN6TP
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C64-RMN6TP_C79988.pdf
+$ENDCMP
+#
+$CMP 24LC02BT-ISN
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC02BT-I-SN_C5453.pdf
+$ENDCMP
+#
+$CMP 24LC04BT-ISNSOP-8
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC04BT-I-SN_C5454.pdf
+$ENDCMP
+#
+$CMP 24LC08BT-ISN
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC08BT-I-SN_C5455.pdf
+$ENDCMP
+#
+$CMP 24LC16BT-ISN
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC16BT-I-SN_C5456.pdf
+$ENDCMP
+#
+$CMP 24LC256T-ISN-SOP-8
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC256T-I-SN_C5458.pdf
+$ENDCMP
+#
+$CMP 24LC64T-ISN
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC64T-I-SN_C5460.pdf
+$ENDCMP
+#
+$CMP 25LC640T-ISN
+D 64Kb (8K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC640T-I-SN_C5464.pdf
+$ENDCMP
+#
+$CMP 93LC56BT-ISN
+D 2Kb (128 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC56BT-I-SN_C6164.pdf
+$ENDCMP
+#
+$CMP AT24C02C-SSHM-T
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C02C-SSHM-T_C6203.pdf
+$ENDCMP
+#
+$CMP AT24C04C-SSHM-T
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C04C-SSHM-T_C6205.pdf
+$ENDCMP
+#
+$CMP AT24C128C-SSHM-T
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C128C-SSHM-T_C6478.pdf
+$ENDCMP
+#
+$CMP AT24C16C-SSHM-T
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C16C-SSHM-T_C6480.pdf
+$ENDCMP
+#
+$CMP AT24C64D-SSHM-T
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C64D-SSHM-T_C6487.pdf
+$ENDCMP
+#
+$CMP AT93C86A-10SU-2.7-T
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C86A-10SU-2-7_C6508.pdf
+$ENDCMP
+#
+$CMP M24256BWMN6TP
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24256BWMN6TP_C7560.pdf
+$ENDCMP
+#
+$CMP M24C16-WMN6TP
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C16-WMN6TP_C7997.pdf
+$ENDCMP
+#
+$CMP M24C32-WMN6TP
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C32-WMN6TP_C7998.pdf
+$ENDCMP
+#
+$CMP M24C64-WMN6TP
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C64-WMN6TP_C7999.pdf
+$ENDCMP
+#
+$CMP K24C08-SIRXA
+D 8Kb (1K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C08-SIRXA_C10511.pdf
+$ENDCMP
+#
+$CMP AT24C512C-SSHD-T
+D 512Kb (64K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812121409_Microchip-Tech-AT24C512C-SSHD-T_C12371.pdf
+$ENDCMP
+#
+$CMP CAT24C64WI-GT3
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C64WI-GT3_C13645.pdf
+$ENDCMP
+#
+$CMP 93LC46BT-ISN
+D 1Kb (64 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC46BT-I-SN_C16253.pdf
+$ENDCMP
+#
+$CMP 24LC512T-ISM
+D 512Kb (64K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC512T-I-SM_C18091.pdf
+$ENDCMP
+#
+$CMP CAT1161WI-28-GT3
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT1161WI-28-GT3_C21096.pdf
+$ENDCMP
+#
+$CMP CAT25320VI-GT3
+D 32Kb (4K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25320VI-GT3_C21452.pdf
+$ENDCMP
+#
+$CMP AT25010B-SSHL-T
+D 1Kb (128 x 8) SPI SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25010B-SSHL-T_C30499.pdf
+$ENDCMP
+#
+$CMP AT93C66B-SSHM-T
+D 4Kb (512 x 8, 256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C66B-SSHM-T_C30841.pdf
+$ENDCMP
+#
+$CMP AT24C08C-SSHM-T
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C08C-SSHM-T_C31422.pdf
+$ENDCMP
+#
+$CMP 25LC512T-ISN
+D 512Kb (64K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC512T-I-SN_C31769.pdf
+$ENDCMP
+#
+$CMP AT24C256C-XHL-T
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C256C-XHL-T_C33035.pdf
+$ENDCMP
+#
+$CMP AT24C02D-SSHM-T
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C02D-SSHM-T_C34807.pdf
+$ENDCMP
+#
+$CMP AT24CM01-SSHD-T
+D 1Mb (128K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24CM01-SSHD-T_C36553.pdf
+$ENDCMP
+#
+$CMP AT25256B-SSHL-T
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25256B-SSHL-T_C36901.pdf
+$ENDCMP
+#
+$CMP AT25128B-SSHL-T
+D 128Kb (16K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25128B-SSHL-T_C38927.pdf
+$ENDCMP
+#
+$CMP 24AA02E48T-IOT
+D 2Kb (256 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA02E48T-I-OT_C38987.pdf
+$ENDCMP
+#
+$CMP AT24C02C-XHM-T
+D 2Kb (256 x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C02C-XHM-T_C48914.pdf
+$ENDCMP
+#
+$CMP AT24C512C-SSHM-T
+D 512Kb (64K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C512C-SSHM-T_C54668.pdf
+$ENDCMP
+#
+$CMP AT24C32D-SSHM-T
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C32D-SSHM-T_C60583.pdf
+$ENDCMP
+#
+$CMP CAT24C04WI-GT3
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C04WI-GT3_C71194.pdf
+$ENDCMP
+#
+$CMP M24C32-RMN6TP
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C32-RMN6TP_C79920.pdf
+$ENDCMP
+#
+$CMP M24C16-RMN6TP
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C16-RMN6TP_C79946.pdf
+$ENDCMP
+#
+$CMP M24256-BRMN6TP
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24256-BRMN6TP_C79984.pdf
+$ENDCMP
+#
+$CMP CAT24C512WI-GT3
+D 512Kb (64K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C512WI-GT3_C79986.pdf
+$ENDCMP
+#
+$CMP CAT24C256WI-GT3
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C256WI-GT3_C79987.pdf
+$ENDCMP
+#
+$CMP M24128-BRMN6TP
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24128-BRMN6TP_C79989.pdf
+$ENDCMP
+#
+$CMP M24M01-RMN6TP
+D 1Mb (128K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24M01-RMN6TP_C79990.pdf
+$ENDCMP
+#
+$CMP M24512-RMN6TP
+D 512Kb (64K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24512-RMN6TP_C79991.pdf
+$ENDCMP
+#
+$CMP CAT24C08WI-GT3
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C08WI-GT3_C80801.pdf
+$ENDCMP
+#
+$CMP CAT24C32WI-GT3
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C32WI-GT3_C81193.pdf
+$ENDCMP
+#
+$CMP CAT24C16WI-GT3
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C16WI-GT3_C81197.pdf
+$ENDCMP
+#
+$CMP K24C02
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C02_C83782.pdf
+$ENDCMP
+#
+$CMP HT2201
+D 1Kb (128 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Holtek-Semicon-HT2201_C84208.pdf
+$ENDCMP
+#
+$CMP K24C02_
+D 2Kb (256 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C02_C84964.pdf
+$ENDCMP
+#
+$CMP 24LC08BT-IOT
+D 8Kb (256 x 8 x 4) I2C SOT-23-5 RoHS EEPROM
+K 
+F 
+$ENDCMP
+#
+$CMP BL24C02A-PARC
+D 2Kb (256 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C02A-PARC_C89290.pdf
+$ENDCMP
+#
+$CMP BL24C64A-PARC
+D 64Kb (8K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C64A-PARC_C89291.pdf
+$ENDCMP
+#
+$CMP BL24C16A-PARC
+D 16Kb (2K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C16A-PARC_C89292.pdf
+$ENDCMP
+#
+$CMP BL24C512A-PARC
+D 512Kb (64K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C512A-PARC_C111332.pdf
+$ENDCMP
+#
+$CMP 24LC00T-ISN-SOP-8
+D 128b (16 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC00T-I-SN_C5451.pdf
+$ENDCMP
+#
+$CMP 24LC01BT-ISN
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC01BT-I-SN_C5452.pdf
+$ENDCMP
+#
+$CMP 93C66WP
+D 4Kb (512 x 8, 256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-93C66WP_C6161.pdf
+$ENDCMP
+#
+$CMP AT25160B-SSHL-T
+D 16Kb (2K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25160B-SSHL-T_C6489.pdf
+$ENDCMP
+#
+$CMP M24128-BWMN6TP
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24128-BWMN6TP_C7559.pdf
+$ENDCMP
+#
+$CMP M24512-WMN6TP
+D 512Kb (64K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24512-WMN6TP_C7561.pdf
+$ENDCMP
+#
+$CMP M93C46-WMN6TP
+D 1Kb (128 x 8, 64 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C46-WMN6TP_C7565.pdf
+$ENDCMP
+#
+$CMP M93C76-WMN6TP
+D 8Kb (1K x 8, 512 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C76-WMN6TP_C7566.pdf
+$ENDCMP
+#
+$CMP M95512-WMN6TP
+D 512Kb (64K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95512-WMN6TPS_C7567.pdf
+$ENDCMP
+#
+$CMP M24C01-WMN6TP
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C01-WMN6TP-S_C7996.pdf
+$ENDCMP
+#
+$CMP K24C256
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C256_C10516.pdf
+$ENDCMP
+#
+$CMP M95080-WMN6TP
+D 8Kb (1K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95080-WMN6TP_C41469.pdf
+$ENDCMP
+#
+$CMP CAT24M01WI-GT3
+D 1Mb (128K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24M01WI-GT3_C62273.pdf
+$ENDCMP
+#
+$CMP AT25320B-SSHL-T
+D 32Kb (4K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25320B-SSHL-T_C81570.pdf
+$ENDCMP
+#
+$CMP CAT25128VI-GT3
+D 128Kb (16K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25128VI-GT3_C88047.pdf
+$ENDCMP
+#
+$CMP 24LC16BTSN
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC16BT-SN_C94827.pdf
+$ENDCMP
+#
+$CMP 24LC128T-ISN
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC128T-I-SN_C99368.pdf
+$ENDCMP
+#
+$CMP M95M01-RMN6TP
+D 1Mb (128K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95M01-RMN6TP_C111166.pdf
+$ENDCMP
+#
+$CMP M24C02-FMN6TP
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-FMN6TP_C114502.pdf
+$ENDCMP
+#
+$CMP M24M02-DRMN6TP
+D 2Mb (256K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24M02-DRMN6TP_C115042.pdf
+$ENDCMP
+#
+$CMP M24256-BWMN6TP
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24256-BWMN6TP_C118279.pdf
+$ENDCMP
+#
+$CMP M24C04-WMN6TP
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C04-WMN6TP_C118280.pdf
+$ENDCMP
+#
+$CMP M93C66-WMN6TP
+D 4Kb (512 x 8, 256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C66-WMN6TP_C118281.pdf
+$ENDCMP
+#
+$CMP M95040-WMN6TP
+D 4Kb (512 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95040-WMN6TP_C118282.pdf
+$ENDCMP
+#
+$CMP M95128-WMN6TP
+D 128Kb (16K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95128-WMN6TP_C118283.pdf
+$ENDCMP
+#
+$CMP M93C56-RMN6TP
+D 2Kb (256 x 8, 128 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C56-RMN6TP_C140879.pdf
+$ENDCMP
+#
+$CMP M95640-WMN6TP
+D 64Kb (8K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95640-WMN6TP_C140882.pdf
+$ENDCMP
+#
+$CMP M95320-RMN6TP
+D 32Kb (4K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95320-RMN6TP_C140884.pdf
+$ENDCMP
+#
+$CMP M24C08-WMN6TP
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C08-WMN6TP_C141771.pdf
+$ENDCMP
+#
+$CMP 24FC256T-ISN
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC256T-I-SN_C144294.pdf
+$ENDCMP
+#
+$CMP CAT93C56VI-GT3
+D 2Kb (256 x 8, 128 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT93C56VI-GT3_C150077.pdf
+$ENDCMP
+#
+$CMP 24AA256T-ISN
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA256T-I-SN_C152172.pdf
+$ENDCMP
+#
+$CMP M93C66-RMN3TPK
+D 4Kb (512 x 8, 256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C66-RMN3TP-K_C157429.pdf
+$ENDCMP
+#
+$CMP M95256-DRMN3TPK
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95256-DRMN3TP-K_C157455.pdf
+$ENDCMP
+#
+$CMP 25LC256T-ESN
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC256T-E-SN_C159741.pdf
+$ENDCMP
+#
+$CMP FM24C02C-SO-T-G
+D 2Kb (256 x 8) 2-Wire SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812230733_Shanghai-Fudan-Microelectronics-FM24C02C-SO-T-G_C189501.pdf
+$ENDCMP
+#
+$CMP AT24C01C-SSHM-T
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C01C-SSHM-T_C36157.pdf
+$ENDCMP
+#
+$CMP 25AA256T-ISN
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA256T-I-SN_C49826.pdf
+$ENDCMP
+#
+$CMP 24LC21AT-ISN-SOP-14
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC21AT-I-SN_C5457.pdf
+$ENDCMP
+#
+$CMP 24LC32AT-ISNSOP-8
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-Microchip-Tech-24LC32AT-I-SN_C5459.pdf
+$ENDCMP
+#
+$CMP FM24C32A
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C32A_C6654.pdf
+$ENDCMP
+#
+$CMP FM24C64A
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C64A_C6655.pdf
+$ENDCMP
+#
+$CMP S-24CS64A0I-J8T1G
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Seiko-Instruments-S-24CS64A0I-J8T1G_C7615.pdf
+$ENDCMP
+#
+$CMP M95020-WMN6
+D 2Kb (256 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95020-WMN6_C8004.pdf
+$ENDCMP
+#
+$CMP DS2460S+
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Maxim-Integrated-DS2460S_C14752.pdf
+$ENDCMP
+#
+$CMP 24AA64T
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA64T_C45707.pdf
+$ENDCMP
+#
+$CMP CAT1021WI-30-GT3
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT1021WI-30-GT3_C50782.pdf
+$ENDCMP
+#
+$CMP 24LC512T-ISN
+D 512Kb (64K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC512T-I-SN_C52088.pdf
+$ENDCMP
+#
+$CMP AT24CM01-SSHM-T
+D 1Mb (128K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24CM01-SSHM-T_C68393.pdf
+$ENDCMP
+#
+$CMP CAT24C128WI-GT3
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C128WI-GT3_C81195.pdf
+$ENDCMP
+#
+$CMP M24C02-RMN6TP
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-RMN6TP_C83836.pdf
+$ENDCMP
+#
+$CMP AT93C56B-SSHM-T
+D 2Kb (256 x 8, 128 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C56B-SSHM-T_C111441.pdf
+$ENDCMP
+#
+$CMP AT25080B-SSHL-T
+D 8Kb (1K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25080B-SSHL-T_C111442.pdf
+$ENDCMP
+#
+$CMP AT25040B-SSHL-T
+D 4Kb (512 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25040B-SSHL-T_C111443.pdf
+$ENDCMP
+#
+$CMP AT25640B-SSHL-T
+D 64Kb (8K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25640B-SSHL-T_C111547.pdf
+$ENDCMP
+#
+$CMP M93C86-WMN6TP
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M93C86-WMN6TP_C111883.pdf
+$ENDCMP
+#
+$CMP AT24C04D-SSHM-T
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C04D-SSHM-T_C116667.pdf
+$ENDCMP
+#
+$CMP AT24C08D-SSHM-T
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C08D-SSHM-T_C116669.pdf
+$ENDCMP
+#
+$CMP AT24C32E-SSHM-T
+D 32Kb (4K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C32E-SSHM-T_C116670.pdf
+$ENDCMP
+#
+$CMP AT25M01-SSHM-T
+D 1Mb (128K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25M01-SSHM-T_C117499.pdf
+$ENDCMP
+#
+$CMP M95020-WMN6TP
+D 2Kb (256 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95020-WMN6TP_C118274.pdf
+$ENDCMP
+#
+$CMP M24C08-RMN6TP
+D 8Kb (1K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C08-RMN6TP_C141777.pdf
+$ENDCMP
+#
+$CMP CAV24C16WE-GT3
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAV24C16WE-GT3_C146711.pdf
+$ENDCMP
+#
+$CMP CAT25512VI-GT3
+D 512Kb (64K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25512VI-GT3_C146783.pdf
+$ENDCMP
+#
+$CMP CAT25640VI-GT3
+D 64Kb (8K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25640VI-GT3_C153776.pdf
+$ENDCMP
+#
+$CMP CAV24C02WE-GT3
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAV24C02WE-GT3_C154828.pdf
+$ENDCMP
+#
+$CMP M95128-DRMN3TPK
+D 128Kb (16K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95128-DRMN3TP-K_C157384.pdf
+$ENDCMP
+#
+$CMP AT93C46DN-SH-T
+D 1Kb (128 x 8, 64 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C46DN-SH-T_C6499.pdf
+$ENDCMP
+#
+$CMP 11LC010T-ITT
+D SOT-23(SOT-23-3) RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-11LC010T-I-TT_C98444.pdf
+$ENDCMP
+#
+$CMP 24LC64T-IMC
+D 64Kb (8K x 8) I2C DFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC64T-I-MC_C90070.pdf
+$ENDCMP
+#
+$CMP 24LC128T-IMS
+D 128Kb (16K x 8) I2C MSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/24LC128T-I-MS_C147881.pdf
+$ENDCMP
+#
+$CMP M95256-RMN6TP
+D 256Kb (32K x 8) SPI SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812011607_STMicroelectronics-M95256-RMN6TP_C140883.pdf
+$ENDCMP
+#
+$CMP M24C01-RMN6TP
+D SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C01-RMN6TP_C146163.pdf
+$ENDCMP
+#
+$CMP M24C04-RMN6TP
+D SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C04-RMN6TP_C81147.pdf
+$ENDCMP
+#
+$CMP M95160-WMN6TP
+D SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95160-WMN6TP_C141776.pdf
+$ENDCMP
+#
+$CMP M95010-WMN6TP
+D SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95010-WMN6TP_C283455.pdf
+$ENDCMP
+#
+$CMP M95640-RMN6TP
+D 64Kb (8K x 8) SPI SO-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95640-RMN6TP_C283461.pdf
+$ENDCMP
+#
+$CMP CAT25256XI-T2
+D 256Kb (32K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25256XI-T2_C94222.pdf
+$ENDCMP
+#
+$CMP BR24T128F-WE2
+D 128Kb (16K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24T128F-WE2_C123052.pdf
+$ENDCMP
+#
+$CMP M95512-RMN6TP
+D 512Kb (64K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95512-RMN6TP_C133775.pdf
+$ENDCMP
+#
+$CMP 25LC320T-ISN
+D 32Kb (4K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC320T-I-SN_C182008.pdf
+$ENDCMP
+#
+$CMP 24LC1025T-ISM
+D 1Mb (128K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/24LC1025T-I-SM_C183301.pdf
+$ENDCMP
+#
+$CMP 24AA1025-ISM
+D 1Mb (128K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA1025-I-SM_C62402.pdf
+$ENDCMP
+#
+$CMP BR24T16F-WE2
+D 16Kb (2K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24T16F-WE2_C84995.pdf
+$ENDCMP
+#
+$CMP BR24T08FJ-WE2
+D 8Kb (1K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24T08FJ-WE2_C123061.pdf
+$ENDCMP
+#
+$CMP 24FC512T-ISM-SOP-8
+D 512Kb (64K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC512T-I-SM_C5450.pdf
+$ENDCMP
+#
+$CMP AT24CM01-SHD-T
+D 1Mb (128K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24CM01-SHD-T_C36057.pdf
+$ENDCMP
+#
+$CMP 24LC64T-ISM
+D 64Kb (8K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC64T-I-SM_C133020.pdf
+$ENDCMP
+#
+$CMP DS24B33S+TR
+D 4Kb (256 x 16) 1-Wire SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Maxim-Integrated-DS24B33S-T-R_C117539.pdf
+$ENDCMP
+#
+$CMP CAT24C512XI-T2
+D 512Kb (64K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C512XI-T2_C153760.pdf
+$ENDCMP
+#
+$CMP BR93L46F-WE2
+D 1Kb (64 x 16) SPI SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR93L46F-WE2_C111706.pdf
+$ENDCMP
+#
+$CMP BR24L01AF-WE2
+D 1Kb (128 x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24L01AF-WE2_C126308.pdf
+$ENDCMP
+#
+$CMP FM24C04D-SO-T-G
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C04D-SO-T-G_C285236.pdf
+$ENDCMP
+#
+$CMP FM24C08D-SO-T-G
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C08D-SO-T-G_C285238.pdf
+$ENDCMP
+#
+$CMP FM24C32A-SO-T-G
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C32A-SO-T-G_C285244.pdf
+$ENDCMP
+#
+$CMP FM24C02A-SO-T-G
+D 2Kb (256 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C02A-SO-TR_C9997.pdf
+$ENDCMP
+#
+$CMP HT24LC02
+D 2Kb (256 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Holtek-Semicon-HT24LC02_C73853.pdf
+$ENDCMP
+#
+$CMP BL24C128A-PARC
+D 128Kb (16K x 8) 2-Wire SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C128A-PARC_C90484.pdf
+$ENDCMP
+#
+$CMP BL24C256A-PARC
+D 256Kb (32K x 8) I2C SOP-8L RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C256A-PARC_C90485.pdf
+$ENDCMP
+#
+$CMP K24C32
+D 32Kb (4K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C32_C173181.pdf
+$ENDCMP
+#
+$CMP K93C56
+D 2Kb (256 x 8, 128 x 16) SPI SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K93C56_C173182.pdf
+$ENDCMP
+#
+$CMP BL24C04F-PARC
+D 4Kb (512 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C04F_C190184.pdf
+$ENDCMP
+#
+$CMP K24C64-TIRXA
+D 64Kb (8K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C64_C10514.pdf
+$ENDCMP
+#
+$CMP 93LC66BT-ISN
+D 4Kb (256 x 16) SPI SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC66BT-I-SN_C46698.pdf
+$ENDCMP
+#
+$CMP BL24C04A-PARC
+D 4Kb (512 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C04A-PARC_C90481.pdf
+$ENDCMP
+#
+$CMP BL24C32A-PARC
+D 32Kb (4K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C32A-PARC_C90482.pdf
+$ENDCMP
+#
+$CMP BL24C08A-PARC
+D 8Kb (1K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C08A-PARC_C94702.pdf
+$ENDCMP
+#
+$CMP AT24CS08-SSHM-T
+D 8Kb (1K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24CS08-SSHM-T_C145585.pdf
+$ENDCMP
+#
+$CMP BL24C02F-PARC
+D 2Kb (256 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C02F-PARC_C176653.pdf
+$ENDCMP
+#
+$CMP AT24C02D-STUM-T
+D SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C02D-STUM-T_C79996.pdf
+$ENDCMP
+#
+$CMP 24AA01T-IOT
+D 1Kb (128 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA01T-I-OT_C122877.pdf
+$ENDCMP
+#
+$CMP CAT24AA02TDI-GT3
+D 2Kb (256 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24AA02TDI-GT3_C133117.pdf
+$ENDCMP
+#
+$CMP 24AA08T-IOT
+D 8Kb (256 x 8 x 4) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA08T-I-OT_C144178.pdf
+$ENDCMP
+#
+$CMP 24LC32AFT-IOT
+D 32Kb (4K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC32AFT-I-OT_C99259.pdf
+$ENDCMP
+#
+$CMP 24AA16T-IOT
+D 16Kb (2K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA16T-I-OT_C122879.pdf
+$ENDCMP
+#
+$CMP K24C08
+D 8Kb (1K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Hua-Hong-NEC-K24C08_C123842.pdf
+$ENDCMP
+#
+$CMP AT24C02C-STUM-T
+D 2Kb (256 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908051130_Microchip-Tech-AT24C02C-STUM-T_C94534.pdf
+$ENDCMP
+#
+$CMP 24AA00T-IOT
+D 128b (16 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA00T-I-OT_C145379.pdf
+$ENDCMP
+#
+$CMP AT24CS32-STUM-T
+D 32Kb (4K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24CS32-STUM-T_C147891.pdf
+$ENDCMP
+#
+$CMP 93AA66AT-IOT
+D 4Kb (512 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA66AT-I-OT_C145723.pdf
+$ENDCMP
+#
+$CMP 93AA56AT-IOT
+D 2Kb (256 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA56AT-I-OT_C73102.pdf
+$ENDCMP
+#
+$CMP 24AA025E48T-IOT
+D 2Kb (256 x 8) I2C SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA025E48T-I-OT_C129895.pdf
+$ENDCMP
+#
+$CMP 25AA040AT-IOT
+D 4Kb (512 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA040AT-I-OT_C144218.pdf
+$ENDCMP
+#
+$CMP 25AA02E48T-IOT
+D 2Kb (256 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA02E48T-I-OT_C145570.pdf
+$ENDCMP
+#
+$CMP 25AA02E64T-IOT
+D 2Kb (256 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA02E64T-I-OT_C145619.pdf
+$ENDCMP
+#
+$CMP 93AA46AT-IOT
+D 1Kb (128 x 8) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA46AT-I-OT_C145736.pdf
+$ENDCMP
+#
+$CMP 93AA56BT-IOT
+D 2Kb (128 x 16) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA56BT-I-OT_C145747.pdf
+$ENDCMP
+#
+$CMP 24LC025T-IOT
+D 2Kb (256 x 8) I2C SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC025T-I-OT_C147915.pdf
+$ENDCMP
+#
+$CMP BL24C02A-RRRC
+D 2Kb (256 x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C02A-RRRC_C125820.pdf
+$ENDCMP
+#
+$CMP BL24C08A-RRRC
+D 8Kb (1K x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C08A-RRRC_C133371.pdf
+$ENDCMP
+#
+$CMP BL24C02P-RRRC
+D 2Kb (256 x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C02P-RRRC_C190108.pdf
+$ENDCMP
+#
+$CMP BL24C04A-RRRC
+D 4Kb (512 x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C04A-RRRC_C192662.pdf
+$ENDCMP
+#
+$CMP CAT24C02TDI-GT3A
+D 2Kb (256 x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C02TDI-GT3A_C81340.pdf
+$ENDCMP
+#
+$CMP CAT24AA16TDI-GT3
+D 16Kb (2K x 8) I2C TSOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24AA16TDI-GT3_C152494.pdf
+$ENDCMP
+#
+$CMP AT7456E
+D TSSOP-28 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456E_C82351.pdf
+$ENDCMP
+#
+$CMP CAT24C32YI-GT3
+D 32Kb (4K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C32YI-GT3_C94264.pdf
+$ENDCMP
+#
+$CMP CAT24C256YI-GT3
+D 256Kb (32K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C256YI-GT3_C146734.pdf
+$ENDCMP
+#
+$CMP AT93C46E-TH-T
+D 1Kb (64 x 16) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C46E-TH-T_C184789.pdf
+$ENDCMP
+#
+$CMP AT24C16C-XHM-T
+D 16Kb (2K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C16C-XHM-T_C112954.pdf
+$ENDCMP
+#
+$CMP BR24T128FVT-WE2
+D 128Kb (16K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24T128FVT-WE2_C123056.pdf
+$ENDCMP
+#
+$CMP BR24T64FVT-WE2
+D 64Kb (8K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24T64FVT-WE2_C123060.pdf
+$ENDCMP
+#
+$CMP CAT24C16YI-GT3
+D 16Kb (2K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C16YI-GT3_C146748.pdf
+$ENDCMP
+#
+$CMP M24C02-RDW6TP
+D 2Kb (256 x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-RDW6TP_C152731.pdf
+$ENDCMP
+#
+$CMP M95128-RDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95128-RDW6TP_C283456.pdf
+$ENDCMP
+#
+$CMP M95256-RDW6TP
+D 256Kb (32K x 8) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95256-RDW6TP_C283458.pdf
+$ENDCMP
+#
+$CMP M24C16-WDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C16-WDW6TP_C283442.pdf
+$ENDCMP
+#
+$CMP M24C32-RDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C32-RDW6TP_C283444.pdf
+$ENDCMP
+#
+$CMP M24C64-WDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C64-WDW6TP_C283447.pdf
+$ENDCMP
+#
+$CMP M34E02-FDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M34E02-FDW6TP_C283450.pdf
+$ENDCMP
+#
+$CMP FM24C04D-TS-T-G
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C04D-TS-T-G_C285237.pdf
+$ENDCMP
+#
+$CMP M24128-BRDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24128-BRDW6TP_C283430.pdf
+$ENDCMP
+#
+$CMP M24C01-RDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C01-RDW6TP_C283434.pdf
+$ENDCMP
+#
+$CMP M24C02-WDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-WDW6TP_C283436.pdf
+$ENDCMP
+#
+$CMP M24C04-WDW6TP
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C04-WDW6TP_C283438.pdf
+$ENDCMP
+#
+$CMP BL24C256A-SFRC
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C256A-SFRC_C110276.pdf
+$ENDCMP
+#
+$CMP 25AA128T-IST
+D 128Kb (16K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA128T-I-ST_C144240.pdf
+$ENDCMP
+#
+$CMP M24256-BRDW6TP
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24256-BRDW6TP_C155665.pdf
+$ENDCMP
+#
+$CMP BL24C128A-SFRC
+D 128Kb (16K x 8) 2-Wire TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C128A-SFRC_C177776.pdf
+$ENDCMP
+#
+$CMP BL24C08A-SFRC
+D 8Kb (1K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C08A-SFRC_C177777.pdf
+$ENDCMP
+#
+$CMP M24C64-RDW6TP
+D 64Kb (8K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C64-RDW6TP_C189763.pdf
+$ENDCMP
+#
+$CMP CAT24C512YI-GT3
+D 512Kb (64K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C512YI-GT3_C56096.pdf
+$ENDCMP
+#
+$CMP M95512-RDW6TP
+D 512Kb (64K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95512-RDW6TP_C122886.pdf
+$ENDCMP
+#
+$CMP BL24C64A-SFRC
+D 64Kb (8K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C64A-SFRC_C111004.pdf
+$ENDCMP
+#
+$CMP AT24C64D-XHM-T
+D 64Kb (8K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C64D-XHM-T_C111440.pdf
+$ENDCMP
+#
+$CMP AT24C512C-XHM-T
+D 512Kb (64K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C512C-XHM-T_C111546.pdf
+$ENDCMP
+#
+$CMP BL24C02A-SFRC
+D 2Kb (256 x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C02A-SFRC_C116272.pdf
+$ENDCMP
+#
+$CMP BL24C16A-SFRC
+D 16Kb (2K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C16A-SFRC_C116273.pdf
+$ENDCMP
+#
+$CMP M24C01-WDW6TP
+D 1Kb (128 x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C01-WDW6TP_C118273.pdf
+$ENDCMP
+#
+$CMP AT24C02D-XHM-T
+D 2Kb (256 x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C02D-XHM-T_C125973.pdf
+$ENDCMP
+#
+$CMP M95512-WDW6TP
+D 512Kb (64K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95512-WDW6TP_C155624.pdf
+$ENDCMP
+#
+$CMP M95640-WDW6TP
+D 64Kb (8K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95640-WDW6TP_C155627.pdf
+$ENDCMP
+#
+$CMP M24C02-FDW6TP
+D 2Kb (256 x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24C02-FDW6TP_C157431.pdf
+$ENDCMP
+#
+$CMP BL24C512A-SFRC
+D 512Kb (64K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C512A-SFRC_C169114.pdf
+$ENDCMP
+#
+$CMP BL24C32A-SFRC
+D 32Kb (4K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C32A-SFRC_C177775.pdf
+$ENDCMP
+#
+$CMP 24AA16T-IMC
+D 16Kb (2K x 8) I2C DFN-8_2x3mm RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/24AA16T-I-MC_C145578.pdf
+$ENDCMP
+#
+$CMP BL24C04A
+D 4Kb (512 x 8) 2-Wire SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C04A_C313539.pdf
+$ENDCMP
+#
+$CMP 24C02TR
+D SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/HGSEMI-24C02-TR_C316692.pdf
+$ENDCMP
+#
+$CMP 24LC128T-IMNY
+D 128Kb (16K x 8) I2C TDFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/24LC128T-I-MNY_C147906.pdf
+$ENDCMP
+#
+$CMP CAT24C02VP2IGT3A
+D 2Kb (256 x 8) I2C TDFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C02VP2IGT3A_C184154.pdf
+$ENDCMP
+#
+$CMP TC58BVG0S3HTA00
+D 1Gb (128M x 8) Parallel TSOP-48 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1905191130_TOSHIBA-TC58BVG0S3HTA00_C113406.pdf
+$ENDCMP
+#
+$CMP BL24C32A
+D 32Kb (4K x 8) I2C TSSOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C32A_C313536.pdf
+$ENDCMP
+#
+$CMP CAT24C512HU5IGT3
+D 512Kb (64K x 8) I2C UDFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C512HU5IGT3_C153773.pdf
+$ENDCMP
+#
+$CMP BL24C04A-NTRC
+D 4Kb (512 x 8) I2C UDFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C04A-NTRC_C177778.pdf
+$ENDCMP
+#
+$CMP CAT24C128HU4IGT3
+D 128Kb (16K x 8) I2C UDFN-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C128HU4IGT3_C146751.pdf
+$ENDCMP
+#
+$CMP ATAES132A-MAHER-T
+D 32Kb (2K x 16) I2C UDFN-8_2x3mm RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ATAES132A-MAHER-T_C145713.pdf
+$ENDCMP
+#
+$CMP AT88SC0104CA-SH
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT88SC0104CA-SH_C8936.pdf
+$ENDCMP
+#
+$CMP AT28C64B-15SU
+D 64Kb (8K x 8) Parallel SOIC-28_300mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT28C64B-15SU_C9439.pdf
+$ENDCMP
+#
+$CMP 24AA025E48-ISN
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA025E48-I-SN_C46840.pdf
+$ENDCMP
+#
+$CMP 25LC640A-ISN
+D 64Kb (8K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC640A-I-SN_C71171.pdf
+$ENDCMP
+#
+$CMP HT24LC64
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Holtek-Semicon-HT24LC64_C73710.pdf
+$ENDCMP
+#
+$CMP HT24LC08
+D 8Kb (1K x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Holtek-Semicon-HT24LC08_C73854.pdf
+$ENDCMP
+#
+$CMP 24LC1025-ISM
+D 1Mb (128K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC1025-I-SM_C84770.pdf
+$ENDCMP
+#
+$CMP AIP24C02
+D 2Kb (256 x 8) I2C SOP-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Wuxi-Zhongwei-Aisin-Elec-AIP24C02_C85316.pdf
+$ENDCMP
+#
+$CMP 24LC256-IST
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC256-I-ST_C87823.pdf
+$ENDCMP
+#
+$CMP RM25C64C-LSNI-B
+D 64Kb (32B Page Size) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Adesto-Technologies-RM25C64C-LSNI-B_C87928.pdf
+$ENDCMP
+#
+$CMP AT24C16C-SSHM-B
+D 16Kb (2K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C16C-SSHM-B_C116708.pdf
+$ENDCMP
+#
+$CMP 93LC86-ISN
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC86-I-SN_C122540.pdf
+$ENDCMP
+#
+$CMP 25LC080B-ISN
+D 8Kb (1K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC080B-I-SN_C144301.pdf
+$ENDCMP
+#
+$CMP 24AA256-IST
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA256-I-ST_C145374.pdf
+$ENDCMP
+#
+$CMP 24LC128-ISM
+D 128Kb (16K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC128-I-SM_C145604.pdf
+$ENDCMP
+#
+$CMP 24AA128-IST
+D 128Kb (16K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA128-I-ST_C145735.pdf
+$ENDCMP
+#
+$CMP 25AA02E48-ISN
+D 2Kb (256 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA02E48-I-SN_C150800.pdf
+$ENDCMP
+#
+$CMP 93AA86C-ISN
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA86C-I-SN_C150805.pdf
+$ENDCMP
+#
+$CMP 24FC256-IST
+D 256Kb (32K x 8) I2C TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC256-I-ST_C150832.pdf
+$ENDCMP
+#
+$CMP 25C320-ISN
+D 32Kb (4K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25C320-I-SN_C152166.pdf
+$ENDCMP
+#
+$CMP 24AA256-ISN
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA256-I-SN_C152169.pdf
+$ENDCMP
+#
+$CMP 93AA56C-ISN
+D 2Kb (256 x 8, 128 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA56C-I-SN_C153256.pdf
+$ENDCMP
+#
+$CMP 93LC56B-ISN
+D 2Kb (128 x 16) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC56B-I-SN_C183620.pdf
+$ENDCMP
+#
+$CMP 24LC024-ISN
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC024-I-SN_C184083.pdf
+$ENDCMP
+#
+$CMP 24LC08B-IST
+D 8Kb (256 x 8 x 4) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC08B-I-ST_C184244.pdf
+$ENDCMP
+#
+$CMP AT93C86A-10TU-2.7
+D 16Kb (2K x 8, 1K x 16) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C86A-10TU-2-7_C184304.pdf
+$ENDCMP
+#
+$CMP 24LC02B-ESN
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC02B-E-SN_C184388.pdf
+$ENDCMP
+#
+$CMP 24LC01B-IMS
+D 1Kb (128 x 8) I2C MSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812220911_Microchip-Tech-24LC01B-I-MS_C184449.pdf
+$ENDCMP
+#
+$CMP AT24C1024BW-SH-B
+D 1Mb (128K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C1024BW-SH-B_C184547.pdf
+$ENDCMP
+#
+$CMP AT93C86A-10SU-1.8
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT93C86A-10SU-1-8_C184552.pdf
+$ENDCMP
+#
+$CMP 93LC66B-ESN
+D 4Kb (256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC66B-E-SN_C184579.pdf
+$ENDCMP
+#
+$CMP 93C66A-ISN
+D 4Kb (512 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93C66A-I-SN_C184726.pdf
+$ENDCMP
+#
+$CMP 93LC46C-IST
+D 1Kb (128 x 8, 64 x 16) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC46C-I-ST_C184890.pdf
+$ENDCMP
+#
+$CMP AT25512N-SH-B
+D 512Kb (64K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25512N-SH-B_C68030.pdf
+$ENDCMP
+#
+$CMP 25LC160B-IMS
+D 16Kb (2K x 8) SPI MSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC160B-I-MS_C184627.pdf
+$ENDCMP
+#
+$CMP 24LC00-ISN
+D 128b (16 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC00-I-SN_C184928.pdf
+$ENDCMP
+#
+$CMP FM24C128A-SO-U-G
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C128A_C6653.pdf
+$ENDCMP
+#
+$CMP 24lc512-ISM
+D 512Kb (64K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24lc512-I-SM_C43586.pdf
+$ENDCMP
+#
+$CMP 24LC1026-ISN
+D 1Mb (128K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC1026-I-SN_C52512.pdf
+$ENDCMP
+#
+$CMP 24AA02E48-ISN
+D 2Kb (256 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA02E48-I-SN_C81475.pdf
+$ENDCMP
+#
+$CMP AT7456
+D TSSOP-28 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456_C82523.pdf
+$ENDCMP
+#
+$CMP 25LC256-ISN
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC256-I-SN_C84670.pdf
+$ENDCMP
+#
+$CMP 24LC128-ISN
+D 128Kb (16K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC128-I-SN_C92359.pdf
+$ENDCMP
+#
+$CMP 25LC512-ISN
+D 512Kb (64K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC512-I-SN_C127510.pdf
+$ENDCMP
+#
+$CMP 25LC040-ISN
+D 4Kb (512 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC040-I-SN_C140065.pdf
+$ENDCMP
+#
+$CMP 25AA320A-IMS
+D 32Kb (4K x 8) SPI MSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA320A-I-MS_C144306.pdf
+$ENDCMP
+#
+$CMP 24AA32A-IMS
+D 32Kb (4K x 8) I2C MSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA32A-I-MS_C144364.pdf
+$ENDCMP
+#
+$CMP 24FC256-ISN
+D 256Kb (32K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC256-I-SN_C145385.pdf
+$ENDCMP
+#
+$CMP 24AA512-ISM
+D 512Kb (64K x 8) I2C SOIC-8_208mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA512-I-SM_C145744.pdf
+$ENDCMP
+#
+$CMP 25LC160C-ISN
+D 16Kb (2K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC160C-I-SN_C148004.pdf
+$ENDCMP
+#
+$CMP 25AA020A-ISN
+D 2Kb (256 x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA020A-I-SN_C148063.pdf
+$ENDCMP
+#
+$CMP 25LC128-IST
+D 128Kb (16K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC128-I-ST_C150812.pdf
+$ENDCMP
+#
+$CMP 24LC014-ISN
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24LC014-I-SN_C152182.pdf
+$ENDCMP
+#
+$CMP 25LC080SN
+D 8Kb (1K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC080-SN_C153269.pdf
+$ENDCMP
+#
+$CMP 25AA320AX-IST
+D 32Kb (4K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/25AA320AX-I-ST_C153272.pdf
+$ENDCMP
+#
+$CMP 25AA640A-IST
+D 64Kb (8K x 8) SPI TSSOP-8_3x4.4x065P RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/25AA640A-I-ST_C153275.pdf
+$ENDCMP
+#
+$CMP 93AA66C-ISN
+D 4Kb (512 x 8, 256 x 16) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93AA66C-I-SN_C153277.pdf
+$ENDCMP
+#
+$CMP 24AA025UID-ISN
+D 2Kb (128 x 8 x 2) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA025UID-I-SN_C194184.pdf
+$ENDCMP
+#
+$CMP 25LC080A-ISN
+D 8Kb (1K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC080A-I-SN_C148035.pdf
+$ENDCMP
+#
+$CMP 24AA01-ISN
+D 1Kb (128 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA01-I-SN_C148037.pdf
+$ENDCMP
+#
+$CMP 25AA320A-ISN
+D 32Kb (4K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA320A-I-SN_C150788.pdf
+$ENDCMP
+#
+$CMP BL24C16A-RRRC
+D 16Kb (2K x 8) I2C TSOT23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C16A-RRRC_C191945.pdf
+$ENDCMP
+#
+$CMP FT24C02A-KSR-T
+D 2Kb (256 x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C02A-KSR-T_C190120.pdf
+$ENDCMP
+#
+$CMP CAT93C86VI-GT3
+D 16Kb (2K x 8, 1K x 16) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT93C86VI-GT3_C238493.pdf
+$ENDCMP
+#
+$CMP 24LC256-ISN
+D SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908161830_Microchip-Tech-24LC256-I-SN_C411625.pdf
+$ENDCMP
+#
+$CMP CAT25256VI-GT3
+D 256Kb (32K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25256VI-GT3_C238492.pdf
+$ENDCMP
+#
+$CMP 24FC1026-ISN
+D 1Mb (128K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC1026-I-SN_C220737.pdf
+$ENDCMP
+#
+$CMP 25AA512-ISN
+D 512Kb (64K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25AA512-I-SN_C219767.pdf
+$ENDCMP
+#
+$CMP 24LCS22A-ISN
+D SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1904261109_Microchip-Tech-24LCS22A-I-SN_C386322.pdf
+$ENDCMP
+#
+$CMP 24FC1025-ISN
+D 1Mb (128K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24FC1025-I-SN_C220753.pdf
+$ENDCMP
+#
+$CMP 24AA1026-ISN
+D 1Mb (128K x 8) I2C SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-24AA1026-I-SN_C219770.pdf
+$ENDCMP
+#
+$CMP AT25M01-SSHM-B
+D 1Mb (128K x 8) SPI SOIC-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT25M01-SSHM-B_C220833.pdf
+$ENDCMP
+#
+$CMP FM24C02B-SO-T-G
+D SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908282002_Shanghai-Fudan-Microelectronics-FM24C02B-SO-T-G_C285235.pdf
+$ENDCMP
+#
+$CMP CAT24C64WI-G
+D 64Kb (8K x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C64WI-G_C233774.pdf
+$ENDCMP
+#
+$CMP CAT25256VI-G
+D 256Kb (32K x 8) SPI SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT25256VI-G_C223620.pdf
+$ENDCMP
+#
+$CMP 93LC56BT-IOT
+D 2Kb (128 x 16) SPI SOT-23-6 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-93LC56BT-I-OT_C190271.pdf
+$ENDCMP
+#
+$CMP GT24C04A-2GLI-TR
+D 4Kb (512 x 8) I2C SOIC-8_150mil RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Giantec-GT24C04A-2GLI-TR_C239138.pdf
+$ENDCMP
+#
+$CMP PT24C02
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1901091236_PUOLOP-PT24C02_C351425.pdf
+$ENDCMP
+#
+$CMP BL24C08F-PATC
+D 8Kb (1K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Belling-BL24C08F-PATC_C190185.pdf
+$ENDCMP
+#
+$CMP FT24C02A-ESR-T
+D 2Kb (256 x 8) 2-Wire SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812230130_Fremont-Micro-Devices-FT24C02A-ESR-T_C211644.pdf
+$ENDCMP
+#
+$CMP BR24L32F-WE2
+D 32Kb (4K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-BR24L32F-WE2_C253183.pdf
+$ENDCMP
+#
+$CMP LR24C08D
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908291002_Leshan-Radio-LR24C08D_C411181.pdf
+$ENDCMP
+#
+$CMP FT24C64A-ESR-T
+D 64Kb (8K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C64A-ESR-T_C232887.pdf
+$ENDCMP
+#
+$CMP BL24CM1A-PARC
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908271042_Shanghai-Belling-BL24CM1A-PARC_C414060.pdf
+$ENDCMP
+#
+$CMP FM24C256A-SO-T-G
+D SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908282002_Shanghai-Fudan-Microelectronics-FM24C256A-SO-T-G_C285242.pdf
+$ENDCMP
+#
+$CMP FT24C16A-ESR-T
+D 16Kb (2K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C16A-ESR-T_C232877.pdf
+$ENDCMP
+#
+$CMP 25LC256T-ISN
+D 256Kb (32K x 8) SPI SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-25LC256T-I-SN_C188247.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ESR-T
+D 128Kb (16K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C128A-ESR-T_C232874.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ESR-T
+D 512Kb (64K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C512A-ESR-T_C232884.pdf
+$ENDCMP
+#
+$CMP FM24C16D-SO-T
+D SOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908282002_Shanghai-Fudan-Microelectronics-FM24C16D-SO-T_C285241.pdf
+$ENDCMP
+#
+$CMP LR24C32D
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908291002_Leshan-Radio-LR24C32D_C411182.pdf
+$ENDCMP
+#
+$CMP LR24C64D
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908291002_Leshan-Radio-LR24C64D_C411180.pdf
+$ENDCMP
+#
+$CMP FT24C08A-ESR-T
+D 8Kb (1K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C08A-ESR-T_C232868.pdf
+$ENDCMP
+#
+$CMP FT24C04A-KSR-T
+D 4Kb (512 x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C04A-KSR-T_C232866.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ESR-T
+D 256Kb (32K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C256A-ESR-T_C232879.pdf
+$ENDCMP
+#
+$CMP FT93C46A-USG-T
+D 1Kb (128 x 8, 64 x 16) SPI SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT93C46A-USG-T_C232889.pdf
+$ENDCMP
+#
+$CMP FT24C32A-ESR-T
+D 32Kb (4K x 8) I2C SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C32A-ESR-T_C232883.pdf
+$ENDCMP
+#
+$CMP CAT24C08YI-GT3
+D 8Kb (1K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-CAT24C08YI-GT3_C193225.pdf
+$ENDCMP
+#
+$CMP BL24C32-SFRC
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1904231007_Shanghai-Belling-BL24C32_C384580.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ETR-T
+D 512Kb (64K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C512A-ETR-T_C232885.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ETR-T
+D 128Kb (16K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C128A-ETR-T_C232873.pdf
+$ENDCMP
+#
+$CMP FM24C64D-TS-T-G
+D 64Kb (8K x 8) 2-Wire TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Shanghai-Fudan-Microelectronics-FM24C64D-TS-T-G_C192127.pdf
+$ENDCMP
+#
+$CMP M24M01-DFDW6TP
+D 1Mb (128K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M24M01-DFDW6TP_C222243.pdf
+$ENDCMP
+#
+$CMP M95256-DRDW3TPK
+D 256Kb (32K x 8) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95256-DRDW3TP-K_C222409.pdf
+$ENDCMP
+#
+$CMP FT24C64A-ETR-T
+D 64Kb (8K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C64A-ETR-T_C232888.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ETR-T
+D 256Kb (32K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C256A-ETR-T_C232880.pdf
+$ENDCMP
+#
+$CMP BL24C32-SFRC_
+D TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1812071239_Shanghai-Belling-BL24C32-SFRC_C343874.pdf
+$ENDCMP
+#
+$CMP M95320-WDW6TP
+D 32Kb (4K x 8) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/STMicroelectronics-M95320-WDW6TP_C283641.pdf
+$ENDCMP
+#
+$CMP FM24C256A-TS-T
+D TSSOP8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1908282002_Shanghai-Fudan-Microelectronics-FM24C256A-TS-T_C285243.pdf
+$ENDCMP
+#
+$CMP FT24C02A-KTR-T
+D 2Kb (256 x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C02A-KTR-T_C232864.pdf
+$ENDCMP
+#
+$CMP FT93C46A-UTG-T
+D 1Kb (128 x 8, 64 x 16) SPI TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT93C46A-UTG-T_C232890.pdf
+$ENDCMP
+#
+$CMP FT24C32A-ETR-T
+D 32Kb (4K x 8) I2C TSSOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C32A-ETR-T_C232881.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171809_Fremont-Micro-Devices-FT24C256A-ESR-B_C417372.pdf
+$ENDCMP
+#
+$CMP FT24C64A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909161932_Fremont-Micro-Devices-FT24C64A-ESR-B_C417365.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171832_Fremont-Micro-Devices-FT24C128A-ESR-B_C417368.pdf
+$ENDCMP
+#
+$CMP FT24C16A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909161905_Fremont-Micro-Devices-FT24C16A-ESR-B_C417359.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171832_Fremont-Micro-Devices-FT24C512A-ESR-B_C417376.pdf
+$ENDCMP
+#
+$CMP FT24C02A-ESR-B
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171808_Fremont-Micro-Devices-FT24C02A-ESR-B_C417354.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ESR-T_
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171809_Fremont-Micro-Devices-FT24C256A-ESR-T_C417371.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ESR-T_
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171808_Fremont-Micro-Devices-FT24C128A-ESR-T_C417367.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ESR-T_
+D SOP-8 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1909171832_Fremont-Micro-Devices-FT24C512A-ESR-T_C417375.pdf
+$ENDCMP
+#
+$CMP FT24C08A-ELR-T
+D 8Kb (1K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C08A-ELR-T_C232869.pdf
+$ENDCMP
+#
+$CMP FT24C16A-ELR-T
+D 16Kb (2K x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C16A-ELR-T_C232875.pdf
+$ENDCMP
+#
+$CMP AT24C01C-STUM-T
+D 1Kb (128 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Microchip-Tech-AT24C01C-STUM-T_C254768.pdf
+$ENDCMP
+#
+$CMP FT24C04A-KLR-T
+D 4Kb (512 x 8) I2C SOT-23-5 RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/Fremont-Micro-Devices-FT24C04A-KLR-T_C232867.pdf
+$ENDCMP
+#
+$CMP CAT24C256HU4IGT3
+D 256Kb (32K x 8) I2C UDFN-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809211934_ON-Semicon-CAT24C256HU4IGT3_C233771.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ENR-T
+D 128Kb (16K x 8) I2C UDFN-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809131554_Fremont-Micro-Devices-FT24C128A-ENR-T_C232872.pdf
+$ENDCMP
+#
+$CMP FM24C128D-DN-T
+D TDFN8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1910111742_Shanghai-Fudan-Microelectronics-FM24C128D-DN-T_C285240.pdf
+$ENDCMP
+#
+$CMP M24C16-WMN6P
+D SO-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141535_STMicroelectronics-M24C16-WMN6P_C283443.pdf
+$ENDCMP
+#
+$CMP BL24C16A-PATC
+D 16Kb (2K x 8) I2C SOP-8L  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1808281713_BL-Shanghai-Belling-BL24C16A-PATC_C240716.pdf
+$ENDCMP
+#
+$CMP FT24C32A-ESR-B
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C32A-ESR-B_C417363.pdf
+$ENDCMP
+#
+$CMP FT24C02A-KSR-B
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C02A-KSR-B_C417357.pdf
+$ENDCMP
+#
+$CMP 24AA1025T-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912121705_Microchip-Tech-24AA1025T-I-SN_C470883.pdf
+$ENDCMP
+#
+$CMP 24LC08B-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Microchip-Tech-24LC08B-I-SN_C461558.pdf
+$ENDCMP
+#
+$CMP AT24CS01-SSHM-T
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Microchip-Tech-AT24CS01-SSHM-T_C461563.pdf
+$ENDCMP
+#
+$CMP AT24C01C-XHM-T
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Microchip-Tech-AT24C01C-XHM-T_C461608.pdf
+$ENDCMP
+#
+$CMP FM93C46A-SO-T-G
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004010133_FM-Shanghai-Fudan-Microelectronics-FM93C46A-SO-T-G_C501787.pdf
+$ENDCMP
+#
+$CMP BR24T02F-WE2
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004231302_ROHM-Semicon-BR24T02F-WE2_C518957.pdf
+$ENDCMP
+#
+$CMP FM93C56A-SO-T-G
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004031412_FM-Shanghai-Fudan-Microelectronics-FM93C56A-SO-T-G_C285254.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ETR-T_
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C512A-ETR-T_C417377.pdf
+$ENDCMP
+#
+$CMP FT24C16A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C16A-ETR-B_C417361.pdf
+$ENDCMP
+#
+$CMP FT24C64A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C64A-ETR-B_C417366.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C128A-ETR-B_C417370.pdf
+$ENDCMP
+#
+$CMP CAT24C64YI-GT3
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809271420_ON-Semiconductor-CAT24C64YI-GT3_C238979.pdf
+$ENDCMP
+#
+$CMP BL24C02-SFRC
+D Non-Volatile 2Kb (256 x 8) 2-Wire 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_BL-Shanghai-Belling-BL24C02-SFRC_C343872.pdf
+$ENDCMP
+#
+$CMP CAT34C02YI-GT5
+D Non-Volatile 2Kb (256 x 8) I2C 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809111618_ON-Semiconductor-CAT34C02YI-GT5_C233784.pdf
+$ENDCMP
+#
+$CMP FM24C02B-TS-T-G
+D Non-Volatile 2Kb (256 x 8) 2-Wire 1.7V ~ 3.6V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1807281226_FM-Shanghai-Fudan-Microelectronics-FM24C02B-TS-T-G_C250844.pdf
+$ENDCMP
+#
+$CMP M24C08-RDW6TP
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1811151600_STMicroelectronics-M24C08-RDW6TP_C283440.pdf
+$ENDCMP
+#
+$CMP FM24C32A-TS-T-G
+D TSSOP8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FM-Shanghai-Fudan-Microelectronics-FM24C32A-TS-T-G_C285245.pdf
+$ENDCMP
+#
+$CMP FT24C16A-ETR-T
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C16A-ETR-T_C417360.pdf
+$ENDCMP
+#
+$CMP FT24C08A-ETR-T
+D Non-Volatile 8Kb (1K x 8) I2C 1.8V ~ 5.5V TSSOP8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809131553_FMD-Fremont-Micro-Devices-FT24C08A-ETR-T_C232870.pdf
+$ENDCMP
+#
+$CMP CAT25160YI-GT3
+D Non-Volatile 16Kb (2K x 8) SPI 1.8V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809111651_ON-Semiconductor-CAT25160YI-GT3_C233781.pdf
+$ENDCMP
+#
+$CMP CAT24C128YI-GT3
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809271326_ON-Semiconductor-CAT24C128YI-GT3_C238978.pdf
+$ENDCMP
+#
+$CMP CAT25256YI-GT3
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1809271326_ON-Semiconductor-CAT25256YI-GT3_C233782.pdf
+$ENDCMP
+#
+$CMP BL24C16-SFRC
+D Non-Volatile 16Kb (2K x 8) 2-Wire 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_BL-Shanghai-Belling-BL24C16-SFRC_C343873.pdf
+$ENDCMP
+#
+$CMP M24C32-XDW5TP
+D Non-Volatile 32Kb (4K x 8) I2C 1.6V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1810172021_STMicroelectronics-M24C32-XDW5TP_C222156.pdf
+$ENDCMP
+#
+$CMP FT24C02A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C02A-ETR-B_C417356.pdf
+$ENDCMP
+#
+$CMP M95160-DFDW6TP
+D Non-Volatile 16Kb (2K x 8) SPI 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1810172021_STMicroelectronics-M95160-DFDW6TP_C222108.pdf
+$ENDCMP
+#
+$CMP FT24C512A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C512A-ETR-B_C417378.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ETR-B
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C256A-ETR-B_C417374.pdf
+$ENDCMP
+#
+$CMP 24LC512-IST
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241203_Microchip-Tech-24LC512-I-ST_C511288.pdf
+$ENDCMP
+#
+$CMP FM24C32D-TS-T-G
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004010133_FM-Shanghai-Fudan-Microelectronics-FM24C32D-TS-T-G_C501788.pdf
+$ENDCMP
+#
+$CMP FM24C512D-TS-T-G
+D Non-Volatile 512Kb (64K x 8) 2-Wire 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1810011113_FM-Shanghai-Fudan-Microelectronics-FM24C512D-TS-T-G_C192125.pdf
+$ENDCMP
+#
+$CMP FT24C02A-ETR-T
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C02A-ETR-T_C417355.pdf
+$ENDCMP
+#
+$CMP FT24C128A-ETR-T_
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C128A-ETR-T_C417369.pdf
+$ENDCMP
+#
+$CMP FT24C256A-ETR-T_
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_FMD-Fremont-Micro-Devices-FT24C256A-ETR-T_C417373.pdf
+$ENDCMP
+#
+$CMP 24LC32A-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241532_Microchip-Tech-24LC32A-I-SN_C511262.pdf
+$ENDCMP
+#
+$CMP 24LC04BT-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241203_Microchip-Tech-24LC04BT-I-SN_C511263.pdf
+$ENDCMP
+#
+$CMP 24LC64-ISM
+D Non-Volatile 64Kb (8K x 8) I2C 2.5V ~ 5.5V SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241509_Microchip-Tech-24LC64-I-SM_C511297.pdf
+$ENDCMP
+#
+$CMP 93LC56A-ISN
+D Non-Volatile 2Kb (256 x 8) SPI 2.5V ~ 5.5V SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241533_Microchip-Tech-93LC56A-I-SN_C511321.pdf
+$ENDCMP
+#
+$CMP 24LC01B-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241532_Microchip-Tech-24LC01B-I-SN_C511265.pdf
+$ENDCMP
+#
+$CMP CAV24C64WE-GT3
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241811_ON-Semiconductor-CAV24C64WE-GT3_C512879.pdf
+$ENDCMP
+#
+$CMP 93LC66AT-IOT
+D Non-Volatile 4Kb (512 x 8) SPI 2.5V ~ 5.5V SOT-23-6  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004241204_Microchip-Tech-93LC66AT-I-OT_C511344.pdf
+$ENDCMP
+#
+$CMP M93C66-WDW6TP
+D TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2004171432_STMicroelectronics-M93C66-WDW6TP_C500648.pdf
+$ENDCMP
+#
+$CMP 24LC256T-EST
+D Non-Volatile 256Kb (32K x 8) I2C 2.5V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2005021632_Microchip-Tech-24LC256T-E-ST_C514076.pdf
+$ENDCMP
+#
+$CMP M95M01-DWMN3TPK
+D Non-Volatile 1Mb (128K x 8) SPI 2.5V ~ 5.5V SO-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1810172021_STMicroelectronics-M95M01-DWMN3TP-K_C221456.pdf
+$ENDCMP
+#
+$CMP M95M01-DFDW6TP
+D Non-Volatile 1Mb (128K x 8) SPI 1.7V ~ 5.5V TSSOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1810172021_STMicroelectronics-M95M01-DFDW6TP_C221464.pdf
+$ENDCMP
+#
+$CMP AT24CM02-SSHD-B
+D Non-Volatile 2Mb (256K x 8) I2C 1.7V ~ 5.5V SOIC-8_150mil  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141437_Microchip-Tech-AT24CM02-SSHD-B_C220680.pdf
+$ENDCMP
+#
+$CMP HE24C08SOH
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2007011108_HE24C08SOH_C688936.pdf
+$ENDCMP
+#
+$CMP BL24C32A-NTRC
+D UDFN-8L  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2006282022_BL-Shanghai-Belling-BL24C32A-NTRC_C691878.pdf
+$ENDCMP
+#
+$CMP BL24C256A-NTRC
+D UDFN-8L  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2006282022_BL-Shanghai-Belling-BL24C256A-NTRC_C691875.pdf
+$ENDCMP
+#
+$CMP 93C46B-ISN
+D SOIC-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/2009081738_Microchip-Tech-93C46B-I-SN_C615354.pdf
+$ENDCMP
+#
+$CMP AT24C64MTR
+D SOP-8  RoHS EEPROM
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_HGSEMI-AT24C64M-TR_C434512.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1965 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP -_
+D 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Green-0805-Iv-207-249-mcd-atIF-20mA_C2297.pdf
+$ENDCMP
+#
+$CMP 17-21SUYCTR8
+D Yellow 592~594nm 95~113mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-17-21SUYC-TR8_C2296.pdf
+$ENDCMP
+#
+$CMP -_
+D Blue 463~466nm 50~60mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Blue-light_C2293.pdf
+$ENDCMP
+#
+$CMP C34499
+D White 173~207mcd Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F 
+$ENDCMP
+#
+$CMP KT-0603R
+D Red 520~625nm 90~100mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-KT-0603R_C2286.pdf
+$ENDCMP
+#
+$CMP 19-217BHC-ZL1M2RY3T
+D Blue 465~475nm 11.5~28.5mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf
+$ENDCMP
+#
+$CMP 19-217GHC-YR1S23T
+D Green 520~535nm 112~258mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf
+$ENDCMP
+#
+$CMP 19-213Y2C-CQ2R2L3TCY
+D Yellow 585.5~591.5nm 90~180mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-213-Y2C-CQ2R2L-3T-CY_C72038.pdf
+$ENDCMP
+#
+$CMP -_
+D White 173~207mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-0603White-light-173-207mcd_C2290.pdf
+$ENDCMP
+#
+$CMP -_
+D Blue 365~470nm 40~50mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Blue-light-0603_C2288.pdf
+$ENDCMP
+#
+$CMP XL-0603QYGC
+D Green-yellow 573~574nm 33~40mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-XL-0603QYGC_C2289.pdf
+$ENDCMP
+#
+$CMP LED_0805Green-yellow
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809172012_Hubei-KENTO-Elec-C2292_C2292.pdf
+$ENDCMP
+#
+$CMP C2304
+D Green-yellow Top View 3528 RoHS Light Emitting Diodes (LED)
+K 
+F 
+$ENDCMP
+#
+$CMP -_
+D Red 625~630nm 200~400mcd@20mA Top View 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Red-LED-3528_C2305.pdf
+$ENDCMP
+#
+$CMP LightEmittingDiodesLED3528
+D 3528 Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Green-3528_C2308.pdf
+$ENDCMP
+#
+$CMP LTST-C193TGKT-5A
+D Green 520~535nm 28~280mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Lite-On-LTST-C193TGKT-5A_C12065.pdf
+$ENDCMP
+#
+$CMP -_
+D Green 515~525nm 509~620mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-0603-Green_C12624.pdf
+$ENDCMP
+#
+$CMP C14641
+D Green 524~528nm 318~382mcd Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F 
+$ENDCMP
+#
+$CMP LightEmittingDiodesLED3528_
+D 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-Warm-White-3528-LEDLamp-beads_C26545.rar
+$ENDCMP
+#
+$CMP -_
+D Red 620nm 130mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-LEDBright-red-light-1206_C49018.pdf
+$ENDCMP
+#
+$CMP 17-21GHC-XS1T2M3T
+D Green 515~530nm 180~450mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-GHC-XS1T2M-3T_C63855.pdf
+$ENDCMP
+#
+$CMP 16-213SDRCS530-A3TR8
+D Red Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-16-213-SDRC-S530-A3-TR8_C71911.pdf
+$ENDCMP
+#
+$CMP 17-21BHC-XL2M2TY3T
+D Blue 465~470nm 14.5~28.5mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-BHC-XL2M2TY-3T_C72035.pdf
+$ENDCMP
+#
+$CMP 17-215UYCS530-A3TR8
+D Yellow 589nm 64mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-215UYC-S530-A3-TR8_C72036.pdf
+$ENDCMP
+#
+$CMP 17-21SURCS530-A3TR8
+D Red 624~632nm 60mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21SURC-S530-A3-TR8_C72037.pdf
+$ENDCMP
+#
+$CMP 19-213SURCS530-A3TR8
+D Red 624~632nm 54mcd Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-213SURC-S530-A3-TR8_C72039.pdf
+$ENDCMP
+#
+$CMP 19-213SYGCS530-E1TR8
+D Green-yellow 573nm 16mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-213SYGC-S530-E1-TR8_C72040.pdf
+$ENDCMP
+#
+$CMP 19-217G7C-AN1P23T
+D Green-yellow 569.5~577.5nm 28.5~72mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-G7C-AN1P2-3T_C72042.pdf
+$ENDCMP
+#
+$CMP 19-217R6C-AL1M2VY3T
+D Red 617.5~633.5nm 11.5~28.5mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-R6C-AL1M2VY-3T_C72044.pdf
+$ENDCMP
+#
+$CMP 19-21SURCS530-A2TR8
+D Red 624nm 39mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-21SURC-S530-A2-TR8_C72045.pdf
+$ENDCMP
+#
+$CMP 1206B
+D Blue 462~472mn 70mcd@5mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-1206B_C72691.pdf
+$ENDCMP
+#
+$CMP 17-21GHC-YR1S23T
+D Green 520~535nm 112~285mcd@10mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-GHC-YR1S2-3T_C73546.pdf
+$ENDCMP
+#
+$CMP 17-21SYGCS530-E2TR8
+D Green-yellow 573nm 23mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21SYGC-S530-E2-TR8_C73548.pdf
+$ENDCMP
+#
+$CMP 15-21SYGCS530-E2TR8
+D Green-yellow 573nm 21mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-15-21SYGC-S530-E2-TR8_C73550.pdf
+$ENDCMP
+#
+$CMP 0603RB
+D Red, Blue 462~465nm Red, 464~468nm Blue 70~150mcd@20mA Red, 70~150mcd@20mA Blue Top View SMD,1.6x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hubei-KENTO-Elec-0603RB_C73822.pdf
+$ENDCMP
+#
+$CMP 16-213GHC-YR1S13T
+D Green 520~535nm 112~285mcd@20mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-16-213-GHC-YR1S1-3T_C74338.pdf
+$ENDCMP
+#
+$CMP 16-213SURCS530-A4TR8
+D Red 624nm 50mcd@20mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-16-213SURC-S530-A4-TR8_C74339.pdf
+$ENDCMP
+#
+$CMP 17-21G6C-FM1N2B3T
+D Green-yellow 570~574.5nm 18~45mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-G6C-FM1N2B-3T_C74344.pdf
+$ENDCMP
+#
+$CMP 17-21SYGCS530-E1TR8
+D Green-yellow 573nm 17mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21SYGC-S530-E1-TR8_C74346.pdf
+$ENDCMP
+#
+$CMP 19-217T1D-CQ2R2TY3T
+D White 90~180mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-T1D-CQ2R2TY-3T_C83955.pdf
+$ENDCMP
+#
+$CMP 17-21T1D-CP2R1TY3T
+D White 57~140mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-T1D-CP2R1TY-3T_C83960.pdf
+$ENDCMP
+#
+$CMP FC-2012HRK-620D
+D Red 615~630nm 67~195mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012HRK-620D_C84256.pdf
+$ENDCMP
+#
+$CMP FC-2012GHK-570A08
+D Green-yellow 565~578nm 20~55mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012GHK-570A08_C84257.pdf
+$ENDCMP
+#
+$CMP FC-A2012WD-457H5
+D White 200~330mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-A2012WD-457H5_C84258.pdf
+$ENDCMP
+#
+$CMP FC-A2012BK-470H2
+D Blue 468~478nm 20~55mcd@2mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-A2012BK-470H2_C84259.pdf
+$ENDCMP
+#
+$CMP FC-2012UGK-520D5
+D Green 525~537.5nm 180~400mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012UGK-520D5_C84260.pdf
+$ENDCMP
+#
+$CMP FC-2012HYK-588J
+D Yellow 585~596nm 85~180mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012HYK-588J_C84261.pdf
+$ENDCMP
+#
+$CMP FC-2012YOXK5-600H08
+D Orange 589~610nm 36~100mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012YOXK-5-600H08_C84262.pdf
+$ENDCMP
+#
+$CMP FC-DA1608HGK-572C
+D Green-yellow 565~578nm 24~55mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-DA1608HGK-572C_C84264.pdf
+$ENDCMP
+#
+$CMP FC-DA1608WD-460H5
+D White 165~275mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-DA1608WD-460H5_C84265.pdf
+$ENDCMP
+#
+$CMP FC-DA1608UGK-520D10
+D Green 515~530nm 300~900mcd@10mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-DA1608UGK-520D10_C84267.pdf
+$ENDCMP
+#
+$CMP FC-DA1608HYK-588J
+D Yellow 586~595nm 80~220mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-DA1608HYK-588J_C84268.pdf
+$ENDCMP
+#
+$CMP FC-DA1608HOK-600H
+D Orange 600~610nm 80~220mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-DA1608HOK-600H_C84269.pdf
+$ENDCMP
+#
+$CMP FC-3215HRK-620D
+D Red 615~630nm 67~195mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-3215HRK-620D_C84270.pdf
+$ENDCMP
+#
+$CMP FC-3215GHK-570A08
+D Green-yellow 565~575nm 20~45mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-3215GHK-570A08_C84273.pdf
+$ENDCMP
+#
+$CMP SML-311DTT86
+D Orange 605nm 3.15mcd@2mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SML-311DTT86_C84984.pdf
+$ENDCMP
+#
+$CMP FM-3528SXK-620H08
+D Red 615~630nm 150~580mcd@20mA Top View CASE-B_3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FM-3528SXK-620H08_C85318.pdf
+$ENDCMP
+#
+$CMP FM-3528BK-470M
+D Blue 463~472nm 250~600mcd@20mA Top View CASE-B_3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FM-3528BK-470M_C85319.pdf
+$ENDCMP
+#
+$CMP FM-3528UGK-520D
+D  Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/green-SMDLED-900-1100mcd_C85320.pdf
+$ENDCMP
+#
+$CMP FC-1608WBD-457M
+D Blue 480~770mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-1608WBD-457M_C85323.pdf
+$ENDCMP
+#
+$CMP FC-1608WPD-462M
+D 0603 RoHS Light Emitting Diodes (LED)
+K 
+F 
+$ENDCMP
+#
+$CMP 17-215R6C-AQ1R2B3T
+D Red 617.5~633.5nm 72~180mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-215-R6C-AQ1R2B-3T_C86865.pdf
+$ENDCMP
+#
+$CMP 15-21SURCS530-A3TR8
+D Red 624nm 54mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-15-21SURC-S530-A3-TR8_C88326.pdf
+$ENDCMP
+#
+$CMP 16-213UYOCS530-A2TR8
+D Orange Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-16-213UYOC-S530-A2-TR8_C88330.pdf
+$ENDCMP
+#
+$CMP FC-1608GEK-572E
+D Green-yellow 565~578nm 45~80mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-1608GEK-572E_C89809.pdf
+$ENDCMP
+#
+$CMP FC-F1608BK-470H5
+D Blue 466~478nm 30~65mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1608BK-470H5_C89814.pdf
+$ENDCMP
+#
+$CMP SML-J14DTT96
+D Orange 611nm 28000mcd@20mA Top View SMD-4 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SML-J14DTT96_C123048.pdf
+$ENDCMP
+#
+$CMP WS2812E
+D RGB 620~630nm Red, 520~530nm Green, 465~475nm Blue 600mcd@16mARed,1200mcd@16mAGreen,300mcd@16mABlue Top View SMD-4 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2812E_C139127.pdf
+$ENDCMP
+#
+$CMP 67-23R6GHBHC-B012T
+D RGB 620 ~ 625nmRed, 530 ~ 535nmGreen, 470~ 475nmBlue 57~112mcd@10mARed,225~450mcd@10mAGreen,36~72mcd@20mAYellow Top View SMD-4 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-23-R6GHBHC-B01-2T_C264607.pdf
+$ENDCMP
+#
+$CMP 61-238KK2C-S30306F4GB2ET
+D White Top View SMD-6 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-61-238-KK2C-S30306F4GB2-ET_C264586.pdf
+$ENDCMP
+#
+$CMP 61-238QK2C-B50632FAGB2ET
+D White SMD-6 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-61-238-QK2C-B50632FAGB2-ET_C264587.pdf
+$ENDCMP
+#
+$CMP WS2812C
+D RGB 620~625nm Red, 515~525nm Green, 465~475nm Blue 60mcd@5mARed,245mcd@5mAGreen,365mcd@5mABlue Top View 5050 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2812C_C114587.pdf
+$ENDCMP
+#
+$CMP ORH-G36G
+D Green 520~535nm 150mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Orient-ORH-G36G_C205443.pdf
+$ENDCMP
+#
+$CMP WS2812S
+D RGB 620~630nm Red, 515~530nm Green, 465~475nm Blue 550~700mcd@20mA Red, 1100~1400mcd@20mA Green, 200~400mcd@20mA Blue Top View 5050 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2812S-W_C114584.pdf
+$ENDCMP
+#
+$CMP WS2812B-B
+D RGB 620~630nm Red, 515~530nm Green, 465~475nm Blue 550~700mcd@16mA Red, 1100~1400mcd@16mA Green, 200~400mcd@16mA Blue Top View 5050 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2812B-B_C114586.pdf
+$ENDCMP
+#
+$CMP WS2812B-Mini
+D RGB 620~630nm Red, 515~530nm Green, 465~475nm Blue 550~700mcd@20mA Red, 1100~1400mcd@20mA Green, 200~400mcd@20mA Blue Top View 3535 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1906201201_Worldsemi-WS2812B-Mini_C114583.pdf
+$ENDCMP
+#
+$CMP FC-F1005UGK-520M5
+D Green 515~530nm 100~270mcd@5mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005UGK-520M5_C130723.pdf
+$ENDCMP
+#
+$CMP FC-F1005HYK-589K5
+D Yellow 586~595nm 7.5~20mcd@25mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005HYK-589K5_C130721.pdf
+$ENDCMP
+#
+$CMP FC-F1005YGK-572J5
+D Green-yellow 565~576nm 6~16mcd@25mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005YGK-572J5_C130722.pdf
+$ENDCMP
+#
+$CMP FC-F1005BK-470G5
+D Blue 463~475nm 16~45mcd@20mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005BK-470G5_C130724.pdf
+$ENDCMP
+#
+$CMP FC-F1005WD-455K5
+D White 80~150mcd@20mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005WD-455K5_C130725.pdf
+$ENDCMP
+#
+$CMP FC-F1005HOK-600H5
+D Orange 598~610nm 16~36mcd@25mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-F1005HOK-600H5_C130720.pdf
+$ENDCMP
+#
+$CMP 19-223R6GHC-A012TYY
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-223-R6GHC-A01-2T-YY_C182213.pdf
+$ENDCMP
+#
+$CMP D-060306G1SS2G1
+D Green 520~525nm 45~75mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Wuxi-ARK-Tech-Elec-D-G060306G1-KS2_C118334.pdf
+$ENDCMP
+#
+$CMP TJ-S1608SW6TGLC2G-A5
+D Green 525nm 120mcd@100mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/TOGIALED-TJ-S1608SW6TGLC2G-A5_C192316.pdf
+$ENDCMP
+#
+$CMP ORH-B36G
+D Blue 455~475nm 12.3mcd@2mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Orient-ORH-B36G_C193191.pdf
+$ENDCMP
+#
+$CMP D-B060306B1-KS2
+D Blue 455~465nm 35~65mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Wuxi-ARK-Tech-Elec-D-B060306B1-KS2_C118339.pdf
+$ENDCMP
+#
+$CMP WS2813C
+D RGB 620~625nmRed, 515~525nmGreen, 465~475nmBlue 60mcd@5mARed,245mcd@5mAGreen,60mcd@5mABlue Top View 5050 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2813C_C194323.pdf
+$ENDCMP
+#
+$CMP FM-Z3535RGBA-SH
+D RGB 622nm Red, 527nm Green, 470nm Blue 800mcd@15mA Red,2050mcd@8mA Green,450mcd@5mA Blue Top View 3535 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811181548_Foshan-NationStar-Optoelectronics-FM-Z3535RGBA-SH_C110903.pdf
+$ENDCMP
+#
+$CMP SMLP34RGB2W3A
+D RGB 624nmRed,527nmGreen,470nmBlue 35mcd@5mARed,110mcd@5mAGreen,45mcd@5mABlue Top View 1.0*1.0mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SMLP34RGB2W3A_C162074.pdf
+$ENDCMP
+#
+$CMP FC-2012WBY-460G
+D White 330~750mcd@15mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-2012WBY-460G_C110099.pdf
+$ENDCMP
+#
+$CMP LTST-C190GKT
+D Green 569nm 6mcd@10mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Lite-On-LTST-C190GKT_C125093.pdf
+$ENDCMP
+#
+$CMP MHT192JRCT
+D 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1907052208_MEIHUA-MHT192JRCT_C401120.pdf
+$ENDCMP
+#
+$CMP 19-21SURCS530-A3TR8
+D Red 624nm 56mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-21SURC-S530-A3-TR8_C142275.pdf
+$ENDCMP
+#
+$CMP D-G080508G1-KS2
+D Green 526~531nm 250~330mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Wuxi-ARK-Tech-Elec-D-G080508G1-KS2_C107402.pdf
+$ENDCMP
+#
+$CMP 11-21R6C-AR2S2B2T
+D Red 617.5~633.5nm 140~285mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-11-21-R6C-AR2S2B-2T_C264317.pdf
+$ENDCMP
+#
+$CMP 11-21BHC-AQ2S1M2T
+D Blue 464.5~476.5nm 90~225mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-11-21-BHC-AQ2S1M-2T_C264323.pdf
+$ENDCMP
+#
+$CMP ORH-G35A
+D Green 515~535nm 80mcd@5mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1908011430_Orient-ORH-G35A_C205442.pdf
+$ENDCMP
+#
+$CMP 17-21SURCS530-A2TR8
+D Red 624nm 38mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21SURC-S530-A2-TR8_C131244.pdf
+$ENDCMP
+#
+$CMP MHT192WDT-C2
+D White 228~450mcd@5mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1905151402_MEIHUA-MHT192WDT-C2_C389521.pdf
+$ENDCMP
+#
+$CMP MHT192WDT-C5
+D White 228~450mcd@5mA 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1906131420_MEIHUA-MHT192WDT-C5_C397049.pdf
+$ENDCMP
+#
+$CMP 1SC3528VGB01MH08
+D SMD,3.5x2.8mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1904011731_Brightek-Optoelectronics-1SC3528VGB01MH08_C383429.pdf
+$ENDCMP
+#
+$CMP SML-310MTT86
+D Green 570nm 16mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SML-310MTT86_C122984.pdf
+$ENDCMP
+#
+$CMP 2SA0603VGB01JT07
+D RGB 620~625nmRed, 519~525nmGreen, 460~466nmBlue 45~60mcd@5mARed, 270~330mcd@5mAGreen, 53~80mcd@5mABlue 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Brightek-Optoelectronics-2SA0603VGB01JT07_C233195.pdf
+$ENDCMP
+#
+$CMP ORH-R36A
+D Orange-red 610~620nm 90mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Orient-ORH-R36A-0-6T_C205445.pdf
+$ENDCMP
+#
+$CMP MHPA2727RGBDT-S
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1909032102_MEIHUA-MHPA2727RGBDT-S_C404286.pdf
+$ENDCMP
+#
+$CMP MHPA1515RGBDT-S
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1908301809_MEIHUA-MHPA1515RGBDT-S_C404282.pdf
+$ENDCMP
+#
+$CMP MHPA1921RGBDT-S
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1907221506_MEIHUA-MHPA1921RGBDT-S_C404283.pdf
+$ENDCMP
+#
+$CMP MHPA2121URGBDT
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1908091903_MEIHUA-MHPA2121URGBDT_C404284.pdf
+$ENDCMP
+#
+$CMP E6C0805URAC1UDA
+D Red 616~626nm 70~150mcd@20mA 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903150933_EKINGLUX-E6C0805URAC1UDA_C375451.pdf
+$ENDCMP
+#
+$CMP E6C0805UYAC1UDA
+D Yellow 587~595nm 70~150mcd@20mA 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903150934_EKINGLUX-E6C0805UYAC1UDA_C375452.pdf
+$ENDCMP
+#
+$CMP E6C0603SEAC1UDA
+D Orange 600~610nm 70~150mcd@20mA 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903150933_EKINGLUX-E6C0603SEAC1UDA_C375450.pdf
+$ENDCMP
+#
+$CMP 67-21SUBCS400-A4TR8
+D 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-21SUBC-S400-A4-TR8_C74348.pdf
+$ENDCMP
+#
+$CMP HQ61-2301SURURURC
+D Red 615~630nm 720mcd@60mA SMD,5x5.4x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/HARVATEK-HQ61-2301SURURURC_C258982.pdf
+$ENDCMP
+#
+$CMP 2SC5050VGB0WR003
+D RGB 617~629nmRed,518~530nmGreen,464~473nmBlue Top View SMD,5x5mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Brightek-Optoelectronics-2SC5050VGB0WR003_C193878.pdf
+$ENDCMP
+#
+$CMP HQ19-2232RGC
+D Red, Green 615~630nm Red, 518~527nm Green 45mcd@5mARed,285mcd@5mAGreen Top View 0603_x2 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/HARVATEK-HQ19-2232RGC_C154460.pdf
+$ENDCMP
+#
+$CMP WS2813B-B
+D RGB Top View 5050 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Worldsemi-WS2813B-B_C114592.pdf
+$ENDCMP
+#
+$CMP RS-3535MWAR
+D RGB 622nm Red, 527nm Green, 470nm Blue 800mcd@20mA Red, 2050mcd@20mA Green, 450mcd@20mA Blue Top View 3535 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-RS-3535MWAR-2JYJY-J_C110402.pdf
+$ENDCMP
+#
+$CMP FC-3215UGK-520D
+D Green 525~530nm 500~1080mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-3215UGK-520D_C99881.pdf
+$ENDCMP
+#
+$CMP OSR51206C1E
+D Red 625nm 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811201505_OptoSupply-OSR51206C1E_C268276.pdf
+$ENDCMP
+#
+$CMP MHT150CRCT
+D Red 617.5~633.5nm 72~140mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1905151403_MEIHUA-MHT150CRCT_C389526.pdf
+$ENDCMP
+#
+$CMP TJ-S3216SW9TGLC2G-A5
+D Green 525nm 250~600mcd@20mA Top View 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/TOGIALED-TJ-S3216SW9TGLC2G-A5_C192678.pdf
+$ENDCMP
+#
+$CMP E6C1206QBAC1UDA
+D Blue 465nm 70~150mcd@20mA 1206 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903151032_EKINGLUX-E6C1206QBAC1UDA_C375460.pdf
+$ENDCMP
+#
+$CMP 19-237R6GHBHC-M072T
+D RGB 632nmRed, 518nmGreen, 468nmBlue 180~380mcd@（10.68mARed,7.37mAGreen, 11.5mABlue） Top View SMD,1.6x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-237-R6GHBHC-M07-2T_C264514.pdf
+$ENDCMP
+#
+$CMP LTST-C191KRKT
+D Red 631nm 18~180mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Lite-On-LTST-C191KRKT_C125099.pdf
+$ENDCMP
+#
+$CMP LTST-C155KGJRKT
+D Red, Green 631~639nm Red, 571~574nm Green 45mcd Red, 35mcd Green Top View SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Lite-On-LTST-C155KGJRKT_C115448.pdf
+$ENDCMP
+#
+$CMP 16-219AT2D-AR2T1QY3T
+D White 140~360mcd@5mA Top View 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-16-219A-T2D-AR2T1QY-3T_C74342.pdf
+$ENDCMP
+#
+$CMP HL-PSC-2012H233W6000-7000K
+D White 1400mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hongli-Zhihui-HONGLITRONIC-HL-PSC-2012H233W-6000-7000K_C219231.pdf
+$ENDCMP
+#
+$CMP 19-21R7C-AN2Q1B3T
+D Red 625.5~637.5nm 36~90mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-21-R7C-AN2Q1B-3T_C40378.pdf
+$ENDCMP
+#
+$CMP 67-21SYGCS530-E4TR8
+D Green-yellow 573nm Top View 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-21SYGC-S530-E4-TR8_C131232.pdf
+$ENDCMP
+#
+$CMP FC-B1010RGBT-HG
+D RGB 610~630nmRed,515~540nmGreen,460~480Blue 1010  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912311012_Foshan-NationStar-Optoelectronics-FC-B1010RGBT-HG_C158099.pdf
+$ENDCMP
+#
+$CMP MT19-237R6GHBHC-B012T
+D RGB 619~629nmRed,520~535nmGreen,465~475nmBlue 36~90mcd@10mARed,72~180mcd@10mAGreen,28.5~72mcd@10mABlue SMD,1.6x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1901151203_Everlight-Elec-MT19-237-R6GHBHC-B01-2T_C264517.pdf
+$ENDCMP
+#
+$CMP MHT170CRLGCT
+D Red, Green 622nmRed,520~535nmGreen 22.5~57mcd@5mARed,180~360mcd@5mAGreen Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1905151403_MEIHUA-MHT170CRLGCT_C391863.pdf
+$ENDCMP
+#
+$CMP 67-22SURSYGCS530-A2TR8
+D Red, Green-yellow 624~632nm Red, 573~575 Green-yellow 24mcd@20mA Red, 59mcd@20mA Green-yellow Top View SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-22SURSYGC-S530-A2-TR8_C13873.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D34W-S1-08-HR3LY
+D White 5700K~6500K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D34W-S1-08-HR3-LY_C210353.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D1W-S1-08-HR3LY
+D White 5700K~6500K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D1W-S1-08-HR3-LY_C210348.pdf
+$ENDCMP
+#
+$CMP 67-21R6C-FN2Q1BZ2T
+D Red 621~632nm 36~90mcd@10mA Top View 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-21-R6C-FN2Q1BZ-2T_C74350.pdf
+$ENDCMP
+#
+$CMP 67-21Y2C-AP2R1BZ2T
+D Yellow 588.5~594.5nm 140~360mcd@20mA Top View 3528 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-67-21-Y2C-AP2R1BZ-2T_C74349.pdf
+$ENDCMP
+#
+$CMP HQ19-2232YOGC
+D Green, Orange 518~527nm Green, 600~609nm Orange 720mcd@20mAGreen,180mcd@20mAOrange Top View SMD,1.6x1.5x0.55mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/HARVATEK-HQ19-2232YOGC_C154456.pdf
+$ENDCMP
+#
+$CMP E6C0606RYGC2UDA
+D Red, Green-yellow 625nmRed,572nmGreen-yellow 150mcd@20mARed,50mcd@20mAGreen-yellow 1.60x1.60x0.60mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903131230_EKINGLUX-E6C0606RYGC2UDA_C375543.pdf
+$ENDCMP
+#
+$CMP E6C0606RQBC2UDA
+D Red, Blue 625nmRed,465nmBlue 70~150mcd@20mA Red, 70~150mcd@20mA Blue 1.60x1.60x0.60mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903131230_EKINGLUX-E6C0606RQBC2UDA_C375544.pdf
+$ENDCMP
+#
+$CMP 19-213G6W-FN1P1B3T
+D Green-yellow 570~574.5nm 28.5~57mcd@20mA 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-213-G6W-FN1P1B-3T_C181862.pdf
+$ENDCMP
+#
+$CMP SML-P12VTT86
+D Red 630nm 60mcd@20mA Top View 1.0*0.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SML-P12VTT86_C184648.pdf
+$ENDCMP
+#
+$CMP SML-P12YTT86Q
+D Yellow 587~593nm 40~100mcd@20mA Top View SMD-2 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/ROHM-Semicon-SML-P12YTT86Q_C123071.pdf
+$ENDCMP
+#
+$CMP LTST-C194TGKT
+D Green 525nm 71~450mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Lite-On-LTST-C194TGKT_C161618.pdf
+$ENDCMP
+#
+$CMP 19-213R6W-BP2Q2B3T
+D Red Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1909031004_Everlight-Elec-19-213-R6W-BP2Q2B-3T_C181863.pdf
+$ENDCMP
+#
+$CMP TJ-S1615SW6TGLCCYRGB-A5
+D RGB 635nm Red ,520nm Green ,460nm Blue 120mcd@20mARed,500mcd@20mAGreen,120mcd@20mABlue Top View SMD,1.5x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/TOGIALED-TJ-S1615SW6TGLCCYRGB-A5_C273610.pdf
+$ENDCMP
+#
+$CMP 19-237R6GHBHC-A012T
+D RGB 624nm Red, 518nm Green, 470nm Blue 100mcd@20mA Red, 180mcd@20mA Green, 50mcd@20mA Blue Top View SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-237-R6GHBHC-A01-2T_C60105.pdf
+$ENDCMP
+#
+$CMP E6C0606RGBC3UDA
+D RGB 620nmRed, 520nmGreen, 465nmBlue 40~80mcd@20mARed,150~350mcd@20mAGreen,30~70mcd@20mABlue 1.60x1.60x0.60mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1905061402_EKINGLUX-E6C0606RGBC3UDA_C375569.pdf
+$ENDCMP
+#
+$CMP HL-AF-5060H271BU46FU79GC-S1-THL
+D RGB 617~627nmRed,515~525nmGreen,464~474nmBlue 460mcd@20mARed,1300mcd@20mAGreen, 130mcd@20mABlue Top View 5060 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Hongli-Zhihui-HONGLITRONIC-HL-AF-5060H271BU46FU79GC-S1-THL_C219409.pdf
+$ENDCMP
+#
+$CMP FM-B2020RGBA-HG
+D RGB 615~630nm Red, 515~535nm Green, 465~480nm Blue 35~85mcd@8mARed,100~260mcd@5mAGreen,15~40mcd@3mABlue Top View 2020 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FM-B2020RGBA-HG_C108793.pdf
+$ENDCMP
+#
+$CMP E6C1209RGBC3UDA
+D RGB 625nmRed, 525nmGreen, 465nmBlue 80~120mcd@20mARed,400~600mcd@20mAGreen,80~120mcd@20mABlue SMD,3.2X2.7X1.1mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1904031009_EKINGLUX-E6C1209RGBC3UDA_C375572.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D34W-S1-08-HR3LY_
+D White 6000K~7000K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D34W-S1-08-HR3-LY_C210354.pdf
+$ENDCMP
+#
+$CMP MHT170UBCT
+D Blue 460~475nm 112~225mcd@20mA Top View 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1905151403_MEIHUA-MHT170UBCT_C389525.pdf
+$ENDCMP
+#
+$CMP TJ-S1615SW6TGLCCSRGB-A5
+D RGB 635nm Red ,520nm Green ,460nm Blue 120mcd@20mARed,500mcd@20mAGreen,120mcd@20mABlue Top View SMD,1.5x1.6mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/TOGIALED-TJ-S1615SW6TGLCCSRGB-A5_C273611.pdf
+$ENDCMP
+#
+$CMP MHT136CRCT
+D Red 617.5~633.5nm 18~36mcd@5mA 0402 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1906131420_MEIHUA-MHT136CRCT_C397045.pdf
+$ENDCMP
+#
+$CMP FC-1608HRK-620H
+D Red 615~630nm 65~150mcd@20mA Top View 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-1608HRK-620H_C90692.pdf
+$ENDCMP
+#
+$CMP E6C1209RVGC2UDA
+D Red, Green 625mnRed, 520mmGreen 70~150mcd@20mARed,400~600mcd@20mAGreen 3.20x2.70x1.10mm RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903131230_EKINGLUX-E6C1209RVGC2UDA_C375560.pdf
+$ENDCMP
+#
+$CMP MHPA1515RGBDT
+D SMD RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1907221506_MEIHUA-MHPA1515RGBDT_C404281.pdf
+$ENDCMP
+#
+$CMP E6C0805QBAC1UDA
+D Blue 460~472nm 70~150mcd@20mA 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1903150934_EKINGLUX-E6C0805QBAC1UDA_C375453.pdf
+$ENDCMP
+#
+$CMP HT27-2101SURC
+D Red 615~630nm 150mcd Surface MountType，Right Angle 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/HARVATEK-HT27-2101SURC_C258852.pdf
+$ENDCMP
+#
+$CMP FC-A1608BK-465M
+D Blue 460~475nm 180~300mcd Surface Mount 0603 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Foshan-NationStar-Optoelectronics-FC-A1608BK-465M_C158101.pdf
+$ENDCMP
+#
+$CMP 17-21R6C-AQ2R2B3T
+D Red 617.5~633.5nm 90~180mcd Surface Mount 0805 RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/Everlight-Elec-17-21-R6C-AQ2R2B-3T_C113551.pdf
+$ENDCMP
+#
+$CMP MHT170CRCT
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1910111742_MEIHUA-MHT170CRCT_C389523.pdf
+$ENDCMP
+#
+$CMP 17-21SYGCS530-E3TR8
+D Top View 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810271707_Everlight-Elec-17-21SYGC-S530-E3-TR8_C142303.pdf
+$ENDCMP
+#
+$CMP 61-238RSGBB7C-B02ET
+D 5*5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021511_Everlight-Elec-61-238-RSGBB7C-B02-ET_C130391.pdf
+$ENDCMP
+#
+$CMP E6C1206VGAC1UDA
+D 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1910111742_EKINGLUX-E6C1206VGAC1UDA_C375461.pdf
+$ENDCMP
+#
+$CMP MHT150UGCT
+D 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1910111742_MEIHUA-MHT150UGCT_C397048.pdf
+$ENDCMP
+#
+$CMP MHP3528URUGCT
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1910111742_MEIHUA-MHP3528URUGCT_C409778.pdf
+$ENDCMP
+#
+$CMP BL-HUB37A-AV-TRB
+D 0402  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810131712_BrtLed-Bright-LED-Elec-BL-HUB37A-AV-TRB_C165980.pdf
+$ENDCMP
+#
+$CMP LTST-C190KGKT
+D Surface Mount 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231512_Lite-On-LTST-C190KGKT_C125094.pdf
+$ENDCMP
+#
+$CMP 17-21VRDTR8
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1808280420_Everlight-Elec-17-21VRD-TR8_C264415.pdf
+$ENDCMP
+#
+$CMP 16-213BHC-AN1P23T
+D Surface Mount 0402  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1808280034_Everlight-Elec-16-213-BHC-AN1P2-3T_C131223.pdf
+$ENDCMP
+#
+$CMP MHP5050RGBDT
+D SMD,5x5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHP5050RGBDT_C409780.pdf
+$ENDCMP
+#
+$CMP LTST-C150KRKT
+D Surface Mount 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811100910_Lite-On-LTST-C150KRKT_C125086.pdf
+$ENDCMP
+#
+$CMP LTST-C230KRKT
+D Surface Mount 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811100910_Lite-On-LTST-C230KRKT_C125107.pdf
+$ENDCMP
+#
+$CMP MHT194CRGBCT
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHT194CRGBCT_C404275.pdf
+$ENDCMP
+#
+$CMP SML-D12M8WT86S
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_ROHM-Semicon-SML-D12M8WT86S_C308768.pdf
+$ENDCMP
+#
+$CMP SML-D12Y1WT86
+D Yellow 590nm 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810191427_ROHM-Semicon-SML-D12Y1WT86_C253534.pdf
+$ENDCMP
+#
+$CMP TJ-S1608SW6TNPGLCRB-A5
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S1608SW6TNPGLCRB-A5_C440514.pdf
+$ENDCMP
+#
+$CMP MHT192WDT-ICE
+D Ice Blue 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHT192WDT-ICE_C389522.pdf
+$ENDCMP
+#
+$CMP ORH-R35A
+D Orange-red 615~625nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811011120_Orient-ORH-R35A_C205444.pdf
+$ENDCMP
+#
+$CMP MHT192JGCT
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912261809_MEIHUA-MHT192JGCT_C473820.pdf
+$ENDCMP
+#
+$CMP E6C1206RGBC3UDA
+D RGB 620nmRed, 520nmGreen, 465nmBlue SMD,3x1.5x0.9mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_EKINGLUX-E6C1206RGBC3UDA_C375571.pdf
+$ENDCMP
+#
+$CMP BL-HB335B-TRB-6
+D Blue 465~470nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811131411_BrtLed-Bright-LED-Elec-BL-HB335B-TRB-6_C189307.pdf
+$ENDCMP
+#
+$CMP LTST-C170KRKT
+D Red 631~639nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141820_Lite-On-LTST-C170KRKT_C94868.pdf
+$ENDCMP
+#
+$CMP 19-217BHC-XL2M2TY3T
+D Blue 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811061220_Everlight-Elec-19-217-BHC-XL2M2TY-3T_C264464.pdf
+$ENDCMP
+#
+$CMP LTST-C190TGKT
+D Green 525nm 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Lite-On-LTST-C190TGKT_C364559.pdf
+$ENDCMP
+#
+$CMP MHT150WDT-C1
+D 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHT150WDT-C1_C412285.pdf
+$ENDCMP
+#
+$CMP WS2812B-Mini_
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005251033_Worldsemi-WS2812B-Mini_C527089.pdf
+$ENDCMP
+#
+$CMP 15-22R6G6C-A322T
+D SMD,3.7x2.7x1mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Everlight-Elec-15-22-R6G6C-A32-2T_C409527.pdf
+$ENDCMP
+#
+$CMP HL-PCB-1617S9FU51GC
+D SMD,1.6x1.7x0.67mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005080334_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-PCB-1617S9FU51GC_C513361.pdf
+$ENDCMP
+#
+$CMP MHPA0808RGBDT
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHPA0808RGBDT_C404279.pdf
+$ENDCMP
+#
+$CMP HSMG-C170
+D Green 572nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810311824_AVAGO-Broadcom-HSMG-C170_C188728.pdf
+$ENDCMP
+#
+$CMP LTST-C171KSKT
+D Yellow 580~594nm SMD,2x1.25x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231822_Lite-On-LTST-C171KSKT_C284933.pdf
+$ENDCMP
+#
+$CMP 19-22SURSYGCS530-A3E2TR8
+D Red,Green-yellow 624nmRed,573nmYellow-Green SMD,1.9x1.6mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231210_Everlight-Elec-19-22SURSYGC-S530-A3-E2-TR8_C131275.pdf
+$ENDCMP
+#
+$CMP WS2813E
+D RGB 620~625nmRed,515~525nmGreen,465~475nmBlue 5.4*5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231212_Worldsemi-WS2813E_C160214.pdf
+$ENDCMP
+#
+$CMP TC5050RGBF08-3CJH-AF53A
+D SMD,5.0x5.0mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231707_TCWIN-TC5050RGBF08-3CJH-AF53A_C784540.pdf
+$ENDCMP
+#
+$CMP 67-21LK2C-B2832B2B5B22TGC
+D White SMD,3.5x2.8x1.9mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021623_Everlight-Elec-67-21-LK2C-B2832B2B5B2-2T-GC_C282161.pdf
+$ENDCMP
+#
+$CMP TC2020RGB-3CJH-TX1812ZM
+D SMD,2.1x2.1mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009271836_TCWIN-TC2020RGB-3CJH-TX1812ZM_C784563.pdf
+$ENDCMP
+#
+$CMP HL-AF-5060H203BC-3-S1-THL
+D Blue 464~474nm 2.8V~3.4V SMD,5.0x5.0x1.6mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2004260933_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AF-5060H203BC-3-S1-THL_C516303.pdf
+$ENDCMP
+#
+$CMP TZ-P4-1615RGBTCA1-0.55T
+D 1615  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009041238_TUOZHAN-TZ-P4-1615RGBTCA1-0-55T_C779813.pdf
+$ENDCMP
+#
+$CMP FM-Z2727RGBA-SH
+D SMD,2.8x2.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009051636_Foshan-NationStar-Optoelectronics-FM-Z2727RGBA-SH_C727905.pdf
+$ENDCMP
+#
+$CMP TC3838RGBE07-3CJH-E19
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231707_TCWIN-TC3838RGBE07-3CJH-E19_C784547.pdf
+$ENDCMP
+#
+$CMP TC3838RGB-3CSA-TX1812HA
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231110_TCWIN-TC3838RGB-3CSA-TX1812HA_C784555.pdf
+$ENDCMP
+#
+$CMP TC3838RGB-3CSA-TX1818H
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231607_TCWIN-TC3838RGB-3CSA-TX1818H_C784557.pdf
+$ENDCMP
+#
+$CMP TC3838RGB-3CSA-TX1812HC
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231110_TCWIN-TC3838RGB-3CSA-TX1812HC_C784556.pdf
+$ENDCMP
+#
+$CMP TC3838RGB-3CSA-TX1818HA
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231607_TCWIN-TC3838RGB-3CSA-TX1818HA_C784558.pdf
+$ENDCMP
+#
+$CMP TC3535RGBE07-3CJH-E01
+D SMD,3.5x3.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231707_TCWIN-TC3535RGBE07-3CJH-E01_C784546.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H489W-S1-08HL-HR3
+D White 6000K~7000K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091105_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H489W-S1-08HL-HR3_C210314.pdf
+$ENDCMP
+#
+$CMP 204-10UYDS530-A3-L
+D Yellow 589nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021622_Everlight-Elec-204-10UYD-S530-A3-L_C85160.pdf
+$ENDCMP
+#
+$CMP 204-10SDRDS530-A3-L
+D Red 639nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811051810_Everlight-Elec-204-10SDRD-S530-A3-L_C84774.pdf
+$ENDCMP
+#
+$CMP 204-10SURDS530-A3
+D Red 624nm Through Hole 3mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810181210_Everlight-Elec-204-10SURD-S530-A3_C99772.pdf
+$ENDCMP
+#
+$CMP DY-204UBCSN-A3
+D Blue 460~475nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TONYU-DY-204UBC-SN-A3_C396993.pdf
+$ENDCMP
+#
+$CMP DY-204URDSN-A3EL
+D Red 606nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TONYU-DY-204URD-SN-A3-EL_C396687.pdf
+$ENDCMP
+#
+$CMP MHL3014SRTS
+D Red 637~647nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHL3014SRTS_C397053.pdf
+$ENDCMP
+#
+$CMP MHL3014UBTD
+D Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912261808_MEIHUA-MHL3014UBTD_C473815.pdf
+$ENDCMP
+#
+$CMP 204-10SURTS530-A3
+D Red 624nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811051819_Everlight-Elec-204-10SURT-S530-A3_C282135.pdf
+$ENDCMP
+#
+$CMP TJ-L5FYTXHMCYLCRGB-A5
+D RGB 620~630nmRed, 515~530nmGreen, 460~470nmBlue Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-L5FYTXHMCYLCRGB-A5_C331057.pdf
+$ENDCMP
+#
+$CMP 204-10SYGDS530-E2-L
+D Green-yellow Through Hole 3mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-204-10SYGD-S530-E2-L_C181864.pdf
+$ENDCMP
+#
+$CMP 204-10SYGDS530-E3-L
+D Green-yellow 573nm Through Hole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811091213_Everlight-Elec-204-10SYGD-S530-E3-L_C128785.pdf
+$ENDCMP
+#
+$CMP HL-304H3GD
+D Green-yellow 565~575nm 2.2V Through Hole,P=2.54mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006301913_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-304H3GD_C568935.pdf
+$ENDCMP
+#
+$CMP 264-7GD
+D ThroughHole  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006151414_Everlight-Elec-264-7GD_C605465.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H489W-S1-08HL-HR3_
+D White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091105_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H489W-S1-08HL-HR3_C210310.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H489W-S1-08HL-HR3_
+D White 3800K~4250K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091105_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H489W-S1-08HL-HR3_C210311.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H421W-S1-08-HR3
+D White 6000K~7000K 2.6V~3.2V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091105_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H421W-S1-08-HR3_C210319.pdf
+$ENDCMP
+#
+$CMP LTW-C230DS
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006102145_Lite-On-LTW-C230DS_C575513.pdf
+$ENDCMP
+#
+$CMP HL-PST-1608H233W9000-16000K
+D White 9000K~16000K 2.7V~3.3V SMD,1.6x0.8x0.68mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811100911_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-PST-1608H233W-9000-16000K_C219226.pdf
+$ENDCMP
+#
+$CMP TJ-S2835UG2W8TLC2R-A5
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S2835UG2W8TLC2R-A5_C440447.pdf
+$ENDCMP
+#
+$CMP 67-21SKKE-H302433Z62TGC
+D 2835  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2001081824_Everlight-Elec-67-21S-KKE-H302433Z6-2T-GC_C475419.pdf
+$ENDCMP
+#
+$CMP LC-T04-WB-W02G
+D SMD,3.0x1.4x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007141918_GMA-LC-T04-WB-W02G_C697418.pdf
+$ENDCMP
+#
+$CMP TJ-S2835UG5W8TLC6B-A5
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S2835UG5W8TLC6B-A5_C440452.pdf
+$ENDCMP
+#
+$CMP HL-C3535F77W1EARa1-FC5665K-6530K
+D White 5665K~6530K 2.6V~3.2V 3.45x3.45x2.0mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005201837_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-C3535F77W1EA-Ra1-FC-5665K-6530K_C541949.pdf
+$ENDCMP
+#
+$CMP 67-21SKK3C-H2727M31N42936Z62T
+D White SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021623_Everlight-Elec-67-21S-KK3C-H2727M31N42936Z6-2T_C73533.pdf
+$ENDCMP
+#
+$CMP 67-21SKK3C-H6060M42P32936Z62T
+D White SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809260910_Everlight-Elec-67-21S-KK3C-H6060M42P32936Z6-2T_C73538.pdf
+$ENDCMP
+#
+$CMP 23-21BR6C-AM1P1VY2A
+D Red 617.5~633.5nm SMD,3.2x1.25mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811051611_Everlight-Elec-23-21B-R6C-AM1P1VY-2A_C264526.pdf
+$ENDCMP
+#
+$CMP WS2812C-2020
+D 2.0x2.0mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2012110135_Worldsemi-WS2812C-2020_C965556.pdf
+$ENDCMP
+#
+$CMP MHT151CRCT
+D 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006121820_MEIHUA-MHT151CRCT_C559117.pdf
+$ENDCMP
+#
+$CMP 11-22SURSUBCS530-A4TR8
+D Red,Blue 624nmRed,470nmBlue SMD,3x2.5mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Everlight-Elec-11-22SURSUBC-S530-A4-TR8_C264331.pdf
+$ENDCMP
+#
+$CMP TJ-S3528UG6W9TLC6TW-A5
+D 3528  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S3528UG6W9TLC6TW-A5_C440446.pdf
+$ENDCMP
+#
+$CMP TJ-S3528UG6W9TLC3DW-A5
+D 3528  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S3528UG6W9TLC3DW-A5_C440445.pdf
+$ENDCMP
+#
+$CMP 19-217G7C-AM1N2B3T
+D Green-yellow 569.5~577.5nm SMD,1.6x0.8x0.4mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811061213_Everlight-Elec-19-217-G7C-AM1N2B-3T_C183844.pdf
+$ENDCMP
+#
+$CMP F.35.00041
+D SMD,3.5x3.5x1.56mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2010271806_TUOZHAN-F-35-00041_C909692.pdf
+$ENDCMP
+#
+$CMP TZ-P4-1615RGCA1-0.6T
+D 1615  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009041238_TUOZHAN-TZ-P4-1615RGCA1-0-6T_C779814.pdf
+$ENDCMP
+#
+$CMP 15-22SURSYGCS530-A3E2TR8
+D SMD,3.2x2.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Everlight-Elec-15-22SURSYGC-S530-A3-E2-TR8_C409523.pdf
+$ENDCMP
+#
+$CMP TC2020RGB-3CJH-TX1812Z5
+D SMD,2.1x2.1mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009271809_TCWIN-TC2020RGB-3CJH-TX1812Z5_C784564.pdf
+$ENDCMP
+#
+$CMP 23-22BR7G6C-A302A
+D Red,Green-yellow 631nmRed,573nmYellow-Green SMD,3.2x1.25mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811051530_Everlight-Elec-23-22B-R7G6C-A30-2A_C131287.pdf
+$ENDCMP
+#
+$CMP 23-22BR7G6C-D312A
+D Red,Green-yellow 625.5~637.5nmRed,565.5~573.5nmYellow-Green SMD,3.2x1.25mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Everlight-Elec-23-22B-R7G6C-D31-2A_C264540.pdf
+$ENDCMP
+#
+$CMP L130-6570003000W21
+D White 6500K SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Lumileds-L130-6570003000W21_C358158.pdf
+$ENDCMP
+#
+$CMP BXEN-27E-13H-9B-00-0-0115-1209.4-9.6V
+D 2700K SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Bridgelux-BXEN-27E-13H-9B-00-0-0-115-120-9-4-9-6V_C358188.pdf
+$ENDCMP
+#
+$CMP DY-S1515065RGBC6805-5T
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006011837_TONYU-DY-S1515065-RGBC-6805-5T_C524053.pdf
+$ENDCMP
+#
+$CMP TJ-S5730UG5W9TLC2G-A5
+D 5730  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S5730UG5W9TLC2G-A5_C440454.pdf
+$ENDCMP
+#
+$CMP TJ-S5730UG5W9TLC2R-A5
+D 5730  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S5730UG5W9TLC2R-A5_C440453.pdf
+$ENDCMP
+#
+$CMP 67-21SKK5C-H602633Z62T
+D SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2007021233_Everlight-Elec-67-21S-KK5C-H602633Z6-2T_C694706.pdf
+$ENDCMP
+#
+$CMP C210340
+D White 2800K~3100K 2.7V~3.3V SMD,3.0x1.4x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-C210340_C210340.pdf
+$ENDCMP
+#
+$CMP HL-A-3014H421W-S1-08HL-HR3
+D White 6000K~7000K 2.7V~3.3V SMD,3.0x1.4x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-3014H421W-S1-08HL-HR3_C210344.pdf
+$ENDCMP
+#
+$CMP FM-3510RGBA-SG
+D SMD,3.5x1mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009051636_Foshan-NationStar-Optoelectronics-FM-3510RGBA-SG_C727903.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D34W-S1-08-HR3LY_
+D White 2800K~3100K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D34W-S1-08-HR3-LY_C210350.pdf
+$ENDCMP
+#
+$CMP HL-A-3528S9AC-S1-13HL
+D Red 626~636nm 1.8V~2.4V SMD,3.5x2.8x1.4mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005041205_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-3528S9AC-S1-13HL_C516137.pdf
+$ENDCMP
+#
+$CMP 11-22R6SGAC-A302T
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005070932_Everlight-Elec-11-22-R6SGAC-A30-2T_C493374.pdf
+$ENDCMP
+#
+$CMP LTST-C195KGJSKT
+D Yellow,Green 574nmYellow, 591nmGreen SMD,1.6x1.5x0.55mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810301632_Lite-On-LTST-C195KGJSKT_C284953.pdf
+$ENDCMP
+#
+$CMP PC30H08-V4
+D White 5000K SMD,3x1.4mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811070921_Lextar-PC30H08-V4_C323597.pdf
+$ENDCMP
+#
+$CMP TZ-P4-1204RBTS2-1.5T
+D 1204  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009041238_TUOZHAN-TZ-P4-1204RBTS2-1-5T_C779808.pdf
+$ENDCMP
+#
+$CMP TC5050RGB-3CSA-TX1812CL
+D SMD,5.0x5.0mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009231110_TCWIN-TC5050RGB-3CSA-TX1812CL_C784549.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H421W-S1-08-HR6SDCM<63800K-4250K60mA
+D White 3800K~4250K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091106_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H421W-S1-08-HR6-SDCM-6-3800K-4250K-60mA_C516132.pdf
+$ENDCMP
+#
+$CMP LT2835WDT-CW0-CM
+D 3.5*2.8*0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008251707_PARALIGHT-LT2835WDT-CW0-CM_C729324.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D1W-S1-08-HR3LY_
+D White 6000K~7000K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D1W-S1-08-HR3-LY_C210349.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H421W-S1-08-HR5R95700K-6500KSDCM<6R9>50
+D White 5700K~6500K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091106_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H421W-S1-08-HR5-R9-5700K-6500K-SDCM-6-R9-50_C516129.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H421W-S1-08-HR6SDCM<66000K-7000K60mA
+D White 6000K~7000K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091106_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H421W-S1-08-HR6-SDCM-6-6000K-7000K-60mA_C516135.pdf
+$ENDCMP
+#
+$CMP HL-AM-2835H421W-S1-08-HR6SDCM<65700K-6500K60mA
+D White 5700K~6500K 2.8V~3.4V SMD,3.5x2.8x0.7mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091106_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AM-2835H421W-S1-08-HR6-SDCM-6-5700K-6500K-60mA_C516134.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D1W-S1-08-HR3LY_
+D White 4750K~5300K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D1W-S1-08-HR3-LY_C210347.pdf
+$ENDCMP
+#
+$CMP C210346
+D White 3800K~4250K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-C210346_C210346.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D34W-S1-08-HR3LY_
+D White 4750K~5300K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D34W-S1-08-HR3-LY_C210352.pdf
+$ENDCMP
+#
+$CMP HL-A-5730D34W-S1-08-HR3LY_
+D White 3800K~4250K 2.8V~3.4V SMD,5.7x3.0x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009021504_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-A-5730D34W-S1-08-HR3-LY_C210351.pdf
+$ENDCMP
+#
+$CMP 67-21SKK5C-H502633Z62TCLW
+D 2835  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005261507_Everlight-Elec-67-21S-KK5C-H502633Z6-2T-CLW_C475393.pdf
+$ENDCMP
+#
+$CMP 67-21SKKE-N502833Z6SZM2T
+D 2835  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2001081824_Everlight-Elec-67-21S-KKE-N502833Z6-SZM-2T_C475405.pdf
+$ENDCMP
+#
+$CMP 67-22SKK7C-H507032Z152TGC
+D 2835  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2001081823_Everlight-Elec-67-22S-KK7C-H507032Z15-2T-GC_C475398.pdf
+$ENDCMP
+#
+$CMP 67-21SKK7C-H356534Z15DTGC
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2001060931_Everlight-Elec-67-21S-KK7C-H356534Z15-DT-GC_C385303.pdf
+$ENDCMP
+#
+$CMP 67-21SKK5C-H572633Z62TCLW
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2001081821_Everlight-Elec-67-21S-KK5C-H572633Z6-2T-CLW_C385300.pdf
+$ENDCMP
+#
+$CMP MHS110CRGBCT
+D RGB 624nmRed, 515~535nmGreen, 460~475nmBlue 1204  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHS110CRGBCT_C397052.pdf
+$ENDCMP
+#
+$CMP XL-0807RGB-MS
+D SMD,2.0x1.8x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2012301033_XINGLIGHT-XL-0807RGB-MS_C965895.pdf
+$ENDCMP
+#
+$CMP WS2812B-2020
+D 2.0x2.0mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2012110135_Worldsemi-WS2812B-2020_C965555.pdf
+$ENDCMP
+#
+$CMP 99-235RSGBB7C-A222D
+D RGB 618~627nmRed, 520~535nmGreen, 457~466nmBlue SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811021523_Everlight-Elec-99-235-RSGBB7C-A22-2D_C131270.pdf
+$ENDCMP
+#
+$CMP MHPA3528RGBCT
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHPA3528RGBCT_C409779.pdf
+$ENDCMP
+#
+$CMP TZ-P2-0603WYS1-1.1T
+D 0602  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2011131906_TUOZHAN-TZ-P2-0603WYS1-1-1T_C916072.pdf
+$ENDCMP
+#
+$CMP LTST-C171KRKT
+D Red 630nm SMD,2x1.25x0.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810301632_Lite-On-LTST-C171KRKT_C284871.pdf
+$ENDCMP
+#
+$CMP 15-21R6C-FQ1R1B2T
+D Red 621~631nm 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf
+$ENDCMP
+#
+$CMP 17-21BHC-AP1Q23T
+D Blue 468~471nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811011514_Everlight-Elec-17-21-BHC-AP1Q2-3T_C99870.pdf
+$ENDCMP
+#
+$CMP MHS110KECT
+D Red 617.5~629.5nm 1.8V 1204  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHS110KECT_C389527.pdf
+$ENDCMP
+#
+$CMP MHS110CGCT
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHS110CGCT_C404270.pdf
+$ENDCMP
+#
+$CMP NCD1206B1
+D Blue 465~475nm 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206B1_C130717.pdf
+$ENDCMP
+#
+$CMP MHP1016UWDT
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHP1016UWDT_C409776.pdf
+$ENDCMP
+#
+$CMP TJ-S1608SW6THBLC6B-A5
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006182314_TOGIALED-TJ-S1608SW6THBLC6B-A5_C601668.pdf
+$ENDCMP
+#
+$CMP NCD0603W3
+D White 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD0603W3_C158100.pdf
+$ENDCMP
+#
+$CMP 19-217Y5C-AM1N1VY3T
+D Yellow 585~595nm SMD,1.6x0.8x0.4mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811141223_Everlight-Elec-19-217-Y5C-AM1N1VY-3T_C282130.pdf
+$ENDCMP
+#
+$CMP GT-197
+D White 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809111520_Everlight-Elec-GT-197_C83904.pdf
+$ENDCMP
+#
+$CMP LTST-C170KGKT
+D Green 567.5~576.5nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231512_Lite-On-LTST-C170KGKT_C98221.pdf
+$ENDCMP
+#
+$CMP MHT192WDT-CYAN
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2003172140_MEIHUA-MHT192WDT-CYAN_C496821.pdf
+$ENDCMP
+#
+$CMP MHT192ZWDT-CYAN
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2005221002_MEIHUA-MHT192ZWDT-CYAN_C496822.pdf
+$ENDCMP
+#
+$CMP TJ-S2012CY8T5ALC7K-A5
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006181313_TOGIALED-TJ-S2012CY8T5ALC7K-A5_C601703.pdf
+$ENDCMP
+#
+$CMP TJ-S2012CY8T5ALC2R-A5
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S2012CY8T5ALC2R-A5_C440521.pdf
+$ENDCMP
+#
+$CMP LTST-S110KGKT
+D Green 571nm SMD,3.2x1.5x1mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231518_Lite-On-LTST-S110KGKT_C284947.pdf
+$ENDCMP
+#
+$CMP WS2813B-V5
+D SMD,5.4x5.0x1.65mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2012110135_Worldsemi-WS2813B-V5_C965558.pdf
+$ENDCMP
+#
+$CMP SZYY0805G
+D 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_Yongyu-Photoelectric-SZYY0805G_C434432.pdf
+$ENDCMP
+#
+$CMP 11-21T3D-AQ1R1QY2T
+D White 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1808280419_Everlight-Elec-11-21-T3D-AQ1R1QY-2T_C264318.pdf
+$ENDCMP
+#
+$CMP TJ-S2005SW9TGLC6B-A5
+D Blue 465nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810181735_TOGIALED-TJ-S2005SW9TGLC6B-A5_C273624.pdf
+$ENDCMP
+#
+$CMP TJ-S2005SW9TGLC7K-A5
+D Green 573nm SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810181751_TOGIALED-TJ-S2005SW9TGLC7K-A5_C273622.pdf
+$ENDCMP
+#
+$CMP TJ-S3528UG1W9TLC2R2G-A5
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006181313_TOGIALED-TJ-S3528UG1W9TLC2R2G-A5_C601701.pdf
+$ENDCMP
+#
+$CMP LTST-S270KFKT
+D Orange 605nm 1.65*1.15  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231522_Lite-On-LTST-S270KFKT_C160472.pdf
+$ENDCMP
+#
+$CMP LTST-S270KGKT
+D Green 571nm 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231513_Lite-On-LTST-S270KGKT_C125113.pdf
+$ENDCMP
+#
+$CMP LTST-S270GKT
+D 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2011101706_Lite-On-LTST-S270GKT_C913078.pdf
+$ENDCMP
+#
+$CMP LTST-S270TBKT
+D Blue 465~475nm 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231514_Lite-On-LTST-S270TBKT_C125115.pdf
+$ENDCMP
+#
+$CMP LTST-S270KRKT
+D Red 631nm SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231514_Lite-On-LTST-S270KRKT_C125114.pdf
+$ENDCMP
+#
+$CMP LTST-S270KSKT
+D Yellow 587nm SMD-2  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810231522_Lite-On-LTST-S270KSKT_C133119.pdf
+$ENDCMP
+#
+$CMP MHS110WDT-C1
+D White 1204  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHS110WDT-C1_C397051.pdf
+$ENDCMP
+#
+$CMP 19-237R6GHBHC-A042T
+D RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2010222107_Everlight-Elec-19-237-R6GHBHC-A04-2T_C883183.pdf
+$ENDCMP
+#
+$CMP ORH-YG35A
+D Green-yellow 566nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810281612_Orient-ORH-YG35A_C205449.pdf
+$ENDCMP
+#
+$CMP ORH-B35A
+D Blue 460~470nm 0805  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810071515_Orient-ORH-B35A_C205441.pdf
+$ENDCMP
+#
+$CMP OSK40603C1E
+D Pink X=0.31,Y=0.2 2.8~3V 0603  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1809271119_OptoSupply-OSK40603C1E_C268294.pdf
+$ENDCMP
+#
+$CMP E6C0603QBAC1UDA
+D Blue 1.6*0.8*0.6  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_EKINGLUX-E6C0603QBAC1UDA_C375446.pdf
+$ENDCMP
+#
+$CMP TJ-S3806SW1TGLCCW-A5
+D SMD,3.8x1.0x0.6mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2006181008_TOGIALED-TJ-S3806SW1TGLCCW-A5_C601692.pdf
+$ENDCMP
+#
+$CMP WS2813-MiniWS2813-3535
+D RGB 620~625nmRed,515~525nmGreen,465~475nmBlue SMD-6  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1810010024_Worldsemi-WS2813-Mini-WS2813-3535_C189639.pdf
+$ENDCMP
+#
+$CMP TJ-S2835UG2W8TLC6B-A5
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S2835UG2W8TLC6B-A5_C440449.pdf
+$ENDCMP
+#
+$CMP TJ-S2835UG2W8TLC2G-A5
+D SMD,3.5x2.8mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_TOGIALED-TJ-S2835UG2W8TLC2G-A5_C440448.pdf
+$ENDCMP
+#
+$CMP MHPA1010RGBDT
+D SMD  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1912111437_MEIHUA-MHPA1010RGBDT_C404280.pdf
+$ENDCMP
+#
+$CMP HL-AF-5060H343W-3-S1-THL-HR35700-6500K
+D White 5700K~6500K 2.6V~3.2V SMD,5.0x5.0x1.6mm  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/2009091205_HONGLITRONIC-Hongli-Zhihui-HONGLITRONIC-HL-AF-5060H343W-3-S1-THL-HR3-5700-6500K_C219407.pdf
+$ENDCMP
+#
+$CMP TJ-S3216SW9TGLC2R-A5
+D Red 635nm 1206  RoHS Light Emitting Diodes (LED)
+K 
+F https://datasheet.lcsc.com/szlcsc/1811142313_TOGIALED-TJ-S3216SW9TGLC2R-A5_C192674.pdf
+$ENDCMP
+#
+#End Doc Library
